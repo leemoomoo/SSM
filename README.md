@@ -9,7 +9,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 
 ## List of models
 
-* Neural Cognitive Diagnosis ([NeuralCD](doc/NeuralCD.md), 2020) [[paper]](paper/NeuralCDM.pdf) [[code&data]](https://github.com/bigdata-ustc/NeuralCD) [[note]](https://zhuanlan.zhihu.com/p/102024574)
+* Neural Cognitive Diagnosis ([NeuralCD](doc/NeuralCD.md), 2020) [[paper]](paper/NeuralCD.pdf) [[code&data]](https://github.com/bigdata-ustc/NeuralCD) [[note]](https://zhuanlan.zhihu.com/p/102024574)
 * Fuzzy Cognitive Diagnosis Framework ([FuzzyCDF](doc/FuzzyCDF.md), 2018) [[paper]](paper/FuzzyCDF.pdf) [[code1](http://staff.ustc.edu.cn/~qiliuql/data/source.zip), [code2](https://github.com/BlackMambaCN/FuzzyCDF), 
 [code3](https://github.com/bigdata-ustc/EduCDM/tree/main)]
  [[data]](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) 
