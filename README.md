@@ -17,7 +17,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 * [DINA](EduCDM/DINA) [[doc]](docs/DINA.md) [[example]](examples/DINA)
   * Eexpectation Maximization ([EMDINA](EduCDM/DINA/EM)) [[example]](examples/DINA/EM)
   * Gradient Descent ([GDDINA](EduCDM/DINA/GD)) [[example]](examples/DINA/GD)
-* [MIRT](EduCDM/MIRT) [[doc]](docs/MIRT.md) [[example]](examples/MIRT)
+* Multidimensional Item Response Theory ([MIRT](doc/MIRT.md), 2009) [[paper]](http://ndl.ethernet.edu.et/bitstream/123456789/60415/1/116.pdf) [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)
 * Item response theory ([IRT](doc/IRT.md),1998)  [[paper]](paper/IRT.pdf) [[code1](https://github.com/bigdata-ustc/EduCDM/tree/main), [code2](https://github.com/inuyasha2012/pypsy)]
   * Eexpectation Maximization ([EMIRT](EduCDM/IRT/EM)) [[example]](examples/IRT/EM)
   * Gradient Descent ([GDIRT](EduCDM/IRT/GD)) [[example]](examples/IRT/GD)
