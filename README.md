@@ -10,12 +10,14 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 ## List of models
 
 * [NCDM](EduCDM/NCDM) [[doc]](docs/NCDM.md) [[example]](examples/NCDM)
-* [FuzzyCDF](EduCDM/FuzzyCDF) [[doc]](docs/FuzzyCDF.md) [[example]](examples/FuzzyCDF)
+* Fuzzy Cognitive Diagnosis Framework ([FuzzyCDF](doc/FuzzyCDF.md),) [[paper]](paper/FuzzyCDF.pdf) [[code1]](http://staff.ustc.edu.cn/~qiliuql/data/source.zip) 
+ [[code1]](https://github.com/BlackMambaCN/FuzzyCDF) 
+[[code2]](https://github.com/bigdata-ustc/EduCDM/tree/main) 
 * [DINA](EduCDM/DINA) [[doc]](docs/DINA.md) [[example]](examples/DINA)
   * Eexpectation Maximization ([EMDINA](EduCDM/DINA/EM)) [[example]](examples/DINA/EM)
   * Gradient Descent ([GDDINA](EduCDM/DINA/GD)) [[example]](examples/DINA/GD)
 * [MIRT](EduCDM/MIRT) [[doc]](docs/MIRT.md) [[example]](examples/MIRT)
-* Item response theory ([IRT](doc/IRT.md),1998)  [[paper]](paper/IRT.pdf) [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)
+* Item response theory ([IRT](doc/IRT.md),1998)  [[paper]](paper/IRT.pdf) [[code1]](https://github.com/bigdata-ustc/EduCDM/tree/main) [[code2]](https://github.com/inuyasha2012/pypsy)
   * Eexpectation Maximization ([EMIRT](EduCDM/IRT/EM)) [[example]](examples/IRT/EM)
   * Gradient Descent ([GDIRT](EduCDM/IRT/GD)) [[example]](examples/IRT/GD)
 * [MCD](EduCDM/MCD) [[doc]](docs/MCD.md) [[example]](examples/MCD)
