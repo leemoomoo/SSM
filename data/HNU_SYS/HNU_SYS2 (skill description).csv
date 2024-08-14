@@ -1,0 +1,51 @@
+﻿Skill id,Description
+1,Definition and classification of signals
+2,Several typical signals
+3,Impulsive and step signals
+4,Operation of signals
+5,Description of systems
+6,Classification of systems
+7,Description of time domain systems
+8,Classical solution of differential equations
+9,0- to 0+ problems
+10,Zero input response and zero state response
+11,Impulsive and step response
+12,Definition of convolution
+13,The graphical solution of convolution integral 
+14,Convolutional integral properties
+15,The solution of discrete system
+16,Unit series response and step response
+17,Definition and calculation of convolution sum
+18,The graphical solution and properties of convolution sum
+19,Definition of Laplace transform
+20,Properties of Laplace transform 
+21,Inverse Laplace transform 
+22,Definition and convergence domain of Z-transform
+23,Properties of Z-transform
+24,Inverse Z-transform
+25,Complex frequency domain model of continuous systems 
+26,Complex frequency domain analysis of continuous systems
+27,Z-domain model of discrete systems
+28,Z-domain analysis of discrete systems
+29,System functions and system properties 
+30,System causality and stability
+31,Orthogonal decomposition of signals
+32,Fourier series of periodic continuous signals
+33,Relationship between waveform symmetry and harmonic properties 
+34,The concept of spectrum and graphical description
+35,The characteristics of spectrum and bandwidth of periodic signals
+36,Spectrum of typical periodic signals
+37,Definition of Fourier transform
+38,Properties of Fourier transform
+39,Fourier transform of common non-periodic signals
+40,Fourier transform of periodic signals
+41,Inverse Fourier transform
+42,Energy spectrum and power spectrum
+43,Discrete Fourier series of periodic sequences
+44,Discrete time Fourier transform of non-periodic sequences
+45,Discrete Fourier transform
+46,Frequency response of continuous systems
+47,The solution of frequency domain response and the analysis of system frequency domain
+48,Transmission system without distortion
+49,Ideal low-pass filter
+50,Sampling theorem
