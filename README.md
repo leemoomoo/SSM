@@ -15,7 +15,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
   * Eexpectation Maximization ([EMDINA](EduCDM/DINA/EM)) [[example]](examples/DINA/EM)
   * Gradient Descent ([GDDINA](EduCDM/DINA/GD)) [[example]](examples/DINA/GD)
 * [MIRT](EduCDM/MIRT) [[doc]](docs/MIRT.md) [[example]](examples/MIRT)
-* Item response theory ([IRT](EduCDM/IRT),1998)  [[doc]](doc/Cognitive Diagnosis/IRT.md) [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)
+* Item response theory ([IRT](doc/Cognitive Diagnosis/IRT.md),1998)  [[doc]](doc/Cognitive Diagnosis/IRT.md) [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)
   * Eexpectation Maximization ([EMIRT](EduCDM/IRT/EM)) [[example]](examples/IRT/EM)
   * Gradient Descent ([GDIRT](EduCDM/IRT/GD)) [[example]](examples/IRT/GD)
 * [MCD](EduCDM/MCD) [[doc]](docs/MCD.md) [[example]](examples/MCD)
