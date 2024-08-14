@@ -4,6 +4,7 @@ Cognitive diagnosis is a fundamental issue in intelligent education, which aims 
 
 If the reader wants to know the details of EMIRT, please refer to the paper: 
 [1] *[Neural Cognitive Diagnosis for Intelligent Education Systems](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2020/Fei-Wang-AAAI.pdf)*.
+
 [2] *[NeuralCD: A General Framework for Cognitive Diagnosis](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Fei-Wang-TKDE22.pdf)*.
 
 ```bibtex
@@ -16,9 +17,7 @@ If the reader wants to know the details of EMIRT, please refer to the paper:
   pages={6153--6161},
   year={2020}
 }
-```
 
-```bibtex
 @article{wang2022neuralcd,
   title={NeuralCD: a general framework for cognitive diagnosis},
   author={Wang, Fei and Liu, Qi and Chen, Enhong and Huang, Zhenya and Yin, Yu and Wang, Shijin and Su, Yu},
