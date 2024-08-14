@@ -11,7 +11,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 
 * [NCDM](EduCDM/NCDM) [[doc]](docs/NCDM.md) [[example]](examples/NCDM)
 * Fuzzy Cognitive Diagnosis Framework ([FuzzyCDF](doc/FuzzyCDF.md),) [[paper]](paper/FuzzyCDF.pdf) [[code1](http://staff.ustc.edu.cn/~qiliuql/data/source.zip), [code2](https://github.com/BlackMambaCN/FuzzyCDF), 
-[code3](https://github.com/bigdata-ustc/EduCDM/tree/main) ]
+[code3](https://github.com/bigdata-ustc/EduCDM/tree/main)]
  [[data]](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) 
 
 * [DINA](EduCDM/DINA) [[doc]](docs/DINA.md) [[example]](examples/DINA)
