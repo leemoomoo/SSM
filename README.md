@@ -47,8 +47,11 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 
 # 待整理
 https://github.com/ChangqianWang/Intelligent-Education/tree/main
+
 https://github.com/BIMK/Intelligent-Education
+
 https://github.com/bigdata-ustc/EduCDM/blob/main/docs/MCD.md
+
 http://staff.ustc.edu.cn/~qiliuql/#publications
 
 
