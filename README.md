@@ -21,6 +21,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Incremental Cognitive Diagnosis ([ICD](doc/ICD.md))|2022| [[paper](paper/ICD.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)| |
 |Knowledge-association based extension of the NeuralCDM ([KaNCD](doc/KaNCD.md))|2023| [[paper](paper/KaNCD.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)| |
 |Multivariate Cognitive Response Framework ([MvCRF](doc/MvCRF.md))|2023| [[paper](paper/MvCRF.pdf)]| [[code](code/MvCRF.zip), [data](data/HNU_SYS/)]| |
+|Affect-aware Cognitive Diagnosis ([ACD](doc/ACD.md))|2024| [[paper](paper/ACD.pdf)]| [[code&data](https://github.com/zeng-zhen/ACD)]| |
 
 # Recommendation System
 
