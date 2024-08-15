@@ -21,6 +21,9 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Incremental Cognitive Diagnosis ([ICD](doc/ICD.md))|2022| [[paper](paper/ICD.pdf)]| [[code&data](https://github.com/bigdata-ustc/ICD)]| |
 |Hierarchical Cognitive Diagnosis Framework  ([HierCDF](doc/HierCDF.md))|2022| [[paper](paper/HierCDF.pdf)]| [[code&data](https://github.com/CSLiJT/HCD-code)]| |
 |Relation map driven Cognitive Diagnosis ([RCD](doc/RCD.md))|2022| [[paper](paper/RCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/RCD/)]| |
+|Knowledge-Sensed Cognitive Diagnosis ([KSCD](doc/KSCD.md))|2022| [[paper](paper/KSCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/KSCD_Code_F)]| |
+|Continuous Time based Neural Cognitive Modeling ([CT-NCM](doc/CT-NCM.md))|2022| [[paper](paper/CT-NCM.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/CTNCM)]| |
+|Prerequisite Attention model for Knowledge Proficiency diagnosis of students ([PAKP](doc/PAKP.md))|2022| [[paper](paper/PAKP.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/PAKP)]| |
 |Knowledge-association based extension of the NeuralCDM ([KaNCD](doc/KaNCD.md))|2023| [[paper](paper/KaNCD.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)| |
 |Multivariate Cognitive Response Framework ([MvCRF](doc/MvCRF.md))|2023| [[paper](paper/MvCRF.pdf)]| [[code](code/MvCRF.zip), [data](data/HNU_SYS/)]| |
 |Reliable Cognitive Diagnosis ([ReliCD](doc/ReliCD.md))|2023| [[paper](paper/ReliCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/ReliCD)]| |
@@ -28,10 +31,14 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Dynamic Cognitive Diagnosis ([DynamicCD](doc/DynamicCD.md))|2023| [[paper](paper/DynamicCD.pdf)]| [[code&data](https://github.com/LegionKing/Dynamic-Cognitive-Diagnosis)]| |
 |Exercise-aware Informative Response Sampling ([EIRS](doc/EIRS.md))|2023| [[paper](paper/EIRS.pdf)]| [[code&data](https://github.com/fannazya/EIRS)]| |
 |Transferable knowledgE Concept grapH embedding framework for Cognitive Diagnosis ([TechCD](doc/TechCD.md))|2023| [[paper](paper/TechCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/TechCD?tab=readme-ov-file)]| |
+|Evolutionary Multi-objective Optimization based Neural Architecture Search for Cognitive Diagnosis ([EMO-NAS-CD](doc/EMO-NAS-CD.md))|2023| [[paper](paper/EMO-NAS-CD.pdf)]| [[code](https://github.com/DevilYangS/EMO-NAS-CD)]| |
+|Neural Architecture Search for Generalized Cognitive Diagnosis  ([NAS-GCD](doc/NAS-GCD.md))|2023| [[paper](paper/NAS-GCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/NAS-GCD)]| |
 |Affect-aware Cognitive Diagnosis ([ACD](doc/ACD.md))|2024| [[paper](paper/ACD.pdf)]| [[code&data](https://github.com/zeng-zhen/ACD)]| |
 |Disentangling Cognitive Diagnosis ([DCD](doc/DCD.md))|2024| [[paper](paper/DCD.pdf)]| [[code](https://github.com/kervias/DCD)]| |
 |Collaborative-aware Mixed Exercise Sampling ([CMES](doc/CMES.md))|2024| [[paper](paper/CMES.pdf)]| [[code](https://github.com/WangCQ206/Intelligent-Education/tree/main/CMES)]| |
 |Symbolic Cognitive Diagnosis ([SymbolicCD](doc/SymbolicCD.md))|2024| [[paper](paper/SymbolicCD.pdf)]| [[code](https://github.com/shinkungoo/SymbolicCDM)]| |
+|Denoising GNN for Group-level Cognitive Diagnosis ([DGCD](doc/DGCD.md))|2024| [[paper](paper/DGCD.pdf)]| [[code](https://github.com/ssy0226/DGCD?tab=readme-ov-file)]| |
+
 
 
 
@@ -41,6 +48,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Method|Year|Paper|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 |Probabilistic Matrix Factorization ([PMF](doc/PMF.md))|2007|  [[paper]](paper/PMF.pdf) |[[code]](https://github.com/fuhailin/Probabilistic-Matrix-Factorization)||
+|CO-Evolutionary algorithm based on Dual-enCoding and Dual-Population ([COE-DCDP](doc/COE-DCDP.md))|2023| [[paper](paper/COE-DCDP.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/COE-DCDP)]| |
 
 # Team Achievements
 
@@ -55,7 +63,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 # 待整理
 https://github.com/ChangqianWang/Intelligent-Education/tree/main
 
-https://github.com/BIMK/Intelligent-Education
+https://github.com/BIMK/Intelligent-Education (整理完)
 
 https://github.com/bigdata-ustc/EduCDM/blob/main/docs/MCD.md
 
