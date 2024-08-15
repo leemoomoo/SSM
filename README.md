@@ -45,4 +45,10 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC|2023|  [journal paper](paper/MvCRF.pdf) |[[code](code/MvCRF.zip), [data](data/HNU_SYS/)]|[[doc]](doc/MvCRF.md) |
 |融入课程知识图谱的 KMAKT 预测算法|2024|  [journal paper](paper/Team/KMAKT.pdf) || [[doc]](doc/KMAKT.md)|
 
+# 待整理
+https://github.com/ChangqianWang/Intelligent-Education/tree/main
+https://github.com/BIMK/Intelligent-Education
+https://github.com/bigdata-ustc/EduCDM/blob/main/docs/MCD.md
+http://staff.ustc.edu.cn/~qiliuql/#publications
+
 
