@@ -30,4 +30,10 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 |Probabilistic Matrix Factorization ([PMF](doc/PMF.md))|2007|  [[paper]](paper/PMF.pdf) |[[code]](https://github.com/fuhailin/Probabilistic-Matrix-Factorization)||
 
+# Team Achievements
+
+|Name|Year|Form|Code&Data|Others|
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+|Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC|2023|  [journal paper](paper/MvCRF.pdf) |[[code](code/MvCRF.zip), [data](data/HNU_SYS/)]| |
+
 
