@@ -1,0 +1,14 @@
+# Knowledge-Sensed Cognitive Diagnosis
+## Abstract
+Cognitive diagnosis is a fundamental issue of intelligent educa- tion platforms, whose goal is to reveal the mastery of students on knowledge concepts. Recently, certain efforts have been made to improve the diagnosis precision, by designing deep neural networks- based diagnostic functions or incorporating more rich context features to enhance the representation of students and exercises. However, how to interpretably infer the student’s mastery over non-interactive knowledge concepts (i.e., knowledge concepts not related to his/her exercising records) still remains challenging, es- pecially when not giving relations between knowledge concepts. To this end, we propose a Knowledge-Sensed Cognitive Diagno- sis (KSCD) framework, aiming at learning intrinsic relations among knowledge concepts from student response logs and incorporating them for inferring students’ mastery over all knowledge concepts in an end-to-end manner. Specifically, we firstly project students, exercises and knowledge concepts into embedding representation matrices, where the intrinsic relations among knowledge concepts are reflected in the knowledge embedding representation matrix. Then, the knowledge-sensed student knowledge mastery vector and exercise factor vectors are obtained by the multiply product of their embedding representations and the knowledge embedding representation matrix, which make the student’s mastery of non- interactive knowledge concepts be interpretably inferred. Finally, we can utilize classical student-exercise interaction functions to pre- dict student’s exercising performance and jointly train the model. In additional, we also design a new function to better model the student-exercise interactions. Extensive experimental results on two real-world datasets clearly show the significant performance gain of our KSCD framework, especially in predicting students’ mastery over non-interactive knowledge concepts, by comparing to state-of-the-art cognitive diagnosis models (CDMs).
+
+If the reader wants to know the details, please refer to the paper: *[Knowledge-Sensed Cognitive Diagnosis for Intelligent Education Platforms](https://dl.acm.org/doi/pdf/10.1145/3511808.3557372)*.
+```bibtex
+@inproceedings{ma2022knowledge,
+  title={Knowledge-sensed cognitive diagnosis for intelligent education platforms},
+  author={Ma, Haiping and Li, Manwei and Wu, Le and Zhang, Haifeng and Cao, Yunbo and Zhang, Xingyi and Zhao, Xuemin},
+  booktitle={Proceedings of the 31st ACM international conference on information \& knowledge management},
+  pages={1451--1460},
+  year={2022}
+}
+```
