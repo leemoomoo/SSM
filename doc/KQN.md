@@ -1,0 +1,15 @@
+# Knowledge Query Network
+## Abstract 
+Knowledge Tracing (KT) is to trace the knowledge of students as they solve a sequence of problems represented by their related skills. This involves abstract concepts of students’ states of knowledge and the interactions between those states and skills. Therefore, a KT model is designed to predict whether students will give correct answers and to describe such abstract concepts. However, existing methods either give relatively low prediction accuracy or fail to explain those concepts intuitively. In this paper, we propose a new model called Knowledge Query Network (KQN) to solve these problems. KQN uses neural networks to encode student learning activities into knowledge state and skill vectors, and models the interactions between the two types of vectors with the dot product. Through this, we introduce a novel concept called probabilistic skill similarity that relates the pairwise cosine and Euclidean distances between skill vectors to the odds ratios of the corresponding skills, which makes KQN interpretable and intuitive. On four public datasets, we have carried out experiments to show the following: 1. KQN outperforms all the existing KT models based on prediction accuracy. 2. The interaction between the knowledge state and skills can be visualized for interpretation. 3. Based on probabilistic skill similarity, a skill domain can be analyzed with clustering using the distances between the skill vectors of KQN. 4. For different values of the vector space dimensionality, KQN consistently exhibits high prediction accuracy and a strong positive correlation between the distance matrices of the skill vectors.
+
+If the reader wants to know the details, please refer to the paper: *[Knowledge query network for knowledge tracing: How knowledge interacts with skills](https://arxiv.org/pdf/1908.02146)*. 
+
+```bibtex
+@inproceedings{lee2019knowledge,
+  title={Knowledge query network for knowledge tracing: How knowledge interacts with skills},
+  author={Lee, Jinseok and Yeung, Dit-Yan},
+  booktitle={Proceedings of the 9th international conference on learning analytics \& knowledge},
+  pages={491--500},
+  year={2019}
+}
+```
