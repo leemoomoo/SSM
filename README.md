@@ -159,7 +159,7 @@ Method|Year|Paper|Code&Data|Others|
 | Algebera_2006-2007       | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Algebera_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Bridge2Algebra_2006-2007 | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Bridge2Algebra_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Junyi                    | ✖️ | ✖️ | tree and prerequisite | [doc](doc/dataset/Junyi.md)，[download](https://pslcdatashop.web.cmu.edu/Project?id=244) |
-| EdNet_KT1                | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/EdNet_KT1.md)，[download1](http://bit.ly/ednet-content), [download2](http://bit.ly/ednet-content) |
+| EdNet                | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/EdNet_.md)，[download](https://github.com/riiid/ednet?tab=readme-ov-file) |
 | Eedi_2020_Task1&2        | ✔️ | ✖️ | tree | [doc](doc/dataset/Eedi_2020_Task1&2.md)，[download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | Eedi_2020_Task3&4        | ✔️ | images    | tree | [doc](doc/dataset/Eedi_2020_Task3&4.md)，[download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | Statics - Fall 2011      | ✖️ | web pages | ✖️ | [doc](doc/dataset/Statics%20-%20Fall%202011.md)，[download](https://pslcdatashop.web.cmu.edu/Export?datasetId=507) |
