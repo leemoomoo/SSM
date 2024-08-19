@@ -167,7 +167,7 @@ Method|Year|Paper|Code&Data|Others|
 | MoocCubeX                | ✔️ |✔️  | prerequisite | [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482010), [doc](https://github.com/THU-KEG/MOOCCubeX/blob/main/README-cn.md), [download](https://github.com/THU-KEG/MOOCCubeX) |
 | SLP                      | ✔️ | ✖️ | ✖️ | [paper](https://aic-fe.bnu.edu.cn/fj/2021-ICCE-SLP.pdf),[download](https://aic-fe.bnu.edu.cn/en/data/index.html) |
 | MooPer                   | ✔️ | ✔️ | tree | [paper](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_22), [doc](https://www.educoder.net/ch/rest/4), [download](https://osscdn.educoder.net/204301300848/11849bb1a58fc758632b709664d1f6d8/AAsoftware/MOOPer.tar.gz) |
-| XES3G5M                  | ✖️ | ✔️ | tree | [paper](https://openreview.net/forum?id=Mn9oHNdYCE) |
+| XES3G5M                  | ✖️ | ✔️ | tree | [paper](https://openreview.net/pdf?id=Mn9oHNdYCE), [doc](https://github.com/ai4ed/XES3G5M), [download](https://drive.google.com/file/d/1eFiIYyh5O2V90RA0brammGH6EpHvPDQe/view) |
 | Simulated-5              | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Simulated-5.md)，[download](https://github.com/fulna/DKT-1/tree/master/data/synthetic) |
 | PISA2015                 | ✔️ | ✖️ | ✖️ | [download](https://www.oecd.org/pisa/data/2015database/) |
 | PISA2018                 | ✔️ | ✖️ | ✖️ | [download](https://www.oecd.org/pisa/data/2018database/) |
