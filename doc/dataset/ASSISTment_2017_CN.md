@@ -1,18 +1,15 @@
 # ASSISTment_2017
 
-## Dataset Description
-This dataset utilized in the 2017 ASSISTments data mining competition. Researchers collected it from a longitudinal study, which tracks students from their use of ASSISTments blended learning platform in middle school in 2004-2007.   
-https://sites.google.com/view/assistmentsdatamining/dataset  
+## 数据集介绍
 
+- 包含686个学生在102个问题上的942816个交互（来自Assistments在线辅导系统）
+- Competition Training Set：包括竞赛训练集
+- Released Full Dataset：包括竞赛训练集和测试集
 
-### Special Notes
-- It contains 942781 interactions, 1709 students, and 3162 questions.
-- These pieces of information might be what you paid extra attention to in your model.
-  - Concept Text
-  - Repeatable Answer Record
-  - The time when students start answering a question and the duration of time spent on answering the question.
+## 数据集描述
 
-## Column Description
+ ![image](https://github.com/leemoomoo/Student-State-Modeling/blob/main/img/ASSISTment_2017.png)
+
 | Attribute | Note |
 | ------ | ------ |
 | student id | a deidentified ID/tag used for identifying an individual student |
