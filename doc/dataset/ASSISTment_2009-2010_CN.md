@@ -9,7 +9,11 @@
 - 如果学生无法自己解决问题，最后一个提示将给学生答案;
 - 目前，该功能仅适用于数学问题集。
 
+
 ## 数据集描述
+
+ ![image](https://github.com/leemoomoo/Student-State-Modeling/blob/main/img/ASSISTment_2009-2010.png)
+
 | Attribute   | Note                                                                              |
 |:-------------|:-----------------------------------------------------------------------------------|
 | order id | Non-chronological id, refer to original problem log |
