@@ -164,7 +164,7 @@ Method|Year|Paper|Code&Data|Others|
 | Eedi_2020_Task3&4        | ✔️ | images    | tree | [doc](doc/dataset/Eedi_2020_Task3&4.md)，[download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | Statics - Fall 2011      | ✖️ | web pages | ✖️ | [doc](doc/dataset/Statics%20-%20Fall%202011.md)，[download](https://pslcdatashop.web.cmu.edu/Export?datasetId=507) |
 | MoocRadar                | ✔️ | ✔️ | ✖️ | [doc](doc/dataset/MoocRadar.md)，[download](https://github.com/THU-KEG/MOOC-Radar)，[paper](https://arxiv.org/abs/2304.02205) |
-| MoocCubeX                | ✔️ |✔️  | prerequisite | [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482010) |
+| MoocCubeX                | ✔️ |✔️  | prerequisite | [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482010), [doc](https://github.com/THU-KEG/MOOCCubeX/blob/main/README-cn.md), [download](https://github.com/THU-KEG/MOOCCubeX) |
 | SLP                      | ✔️ | ✖️ | ✖️ | [paper](https://aic-fe.bnu.edu.cn/fj/2021-ICCE-SLP.pdf),[download](https://aic-fe.bnu.edu.cn/en/data/index.html) |
 | MooPer                   | ✔️ | ✔️ | tree | [paper](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_22) |
 | XES3G5M                  | ✖️ | ✔️ | tree | [paper](https://openreview.net/forum?id=Mn9oHNdYCE) |
@@ -179,7 +179,7 @@ Method|Year|Paper|Code&Data|Others|
 | workbankr         |   |   |   | [download](https://drive.google.com/drive/folders/1ja9P5yzeUDyzzm748p5JObAEs_Evysgc) |
 | critlangacq         |   |   |   | [download](https://drive.google.com/drive/folders/1ja9P5yzeUDyzzm748p5JObAEs_Evysgc) |
 | Math23k         |   |   |   | [download](http://base.ustc.edu.cn/data/math23k.zip) |
-| MOOCCube         |   |   |   | [download](http://moocdata.cn/data/MOOCCube) |
+| MOOCCube         |   |   |   | [paper](https://lfs.aminer.cn/misc/moocdata/publications/ACL20_Yu-et-al-MOOCCube.pdf), [doc&download](http://moocdata.cn/data/MOOCCube) |
 | NIPS2020         |   |   |   | [download](https://www.microsoft.com/en-us/research/academic-program/diagnostic-questions/) |
 | OpenLUNA         |   |   |   | [download](http://base.ustc.edu.cn/data/OpenLUNA/) |
 | Eedi         |   |   |   | [doc](https://eedi.com/projects/neurips-education-challenge), [download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
