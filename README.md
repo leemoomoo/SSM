@@ -135,13 +135,15 @@ Method|Year|Paper|Code&Data|Others|
 |CO-Evolutionary algorithm based on Dual-enCoding and Dual-Population ([COE-DCDP](doc/COE-DCDP.md))|2023| [[paper](paper/COE-DCDP.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/COE-DCDP)]| |
 
 
-# Datasets
+# Dataset
+## Description
 
 - Student-Side Information: contain features of students or not, such as class, gender, school, etc
 - Exercise-Side Information: contain textual information of exercise or not
 - Knowldge Component Relation: contain relations among knowledge component or not (tree or prerequisite)
 - Link："doc" means the link to documents we wrote about the dataset, "download" means the link to download dataset and "paper" means the link to the paper of the dataset
 
+## List of datasets
 
 | Dataset Name | Student-Side Information | Exercise-Side Information | Knowldge Component Relation | Link |
 | :----------- | :-----------: | :------------: | :--------------: | :--------------------------------------------------: |
