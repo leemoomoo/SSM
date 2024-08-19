@@ -165,7 +165,7 @@ Method|Year|Paper|Code&Data|Others|
 | Statics - Fall 2011      | ✖️ | web pages | ✖️ | [doc](doc/dataset/Statics%20-%20Fall%202011.md)，[download](https://pslcdatashop.web.cmu.edu/Export?datasetId=507) |
 | MoocRadar                | ✔️ | ✔️ | ✖️ | [doc](doc/dataset/MoocRadar.md)，[download](https://github.com/THU-KEG/MOOC-Radar)，[paper](https://arxiv.org/abs/2304.02205) |
 | MoocCubeX                | ✔️ |✔️  | prerequisite | [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482010) |
-| SLP                      | ✔️ | ✖️ | ✖️ | [paper](https://aic-fe.bnu.edu.cn/fj/2021-ICCE-SLP.pdf) |
+| SLP                      | ✔️ | ✖️ | ✖️ | [paper](https://aic-fe.bnu.edu.cn/fj/2021-ICCE-SLP.pdf),[download](https://aic-fe.bnu.edu.cn/en/data/index.html) |
 | MooPer                   | ✔️ | ✔️ | tree | [paper](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_22) |
 | XES3G5M                  | ✖️ | ✔️ | tree | [paper](https://openreview.net/forum?id=Mn9oHNdYCE) |
 | Simulated-5              | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Simulated-5.md)，[download](https://github.com/fulna/DKT-1/tree/master/data/synthetic) |
@@ -173,6 +173,17 @@ Method|Year|Paper|Code&Data|Others|
 | PISA2018                 | ✔️ | ✖️ | ✖️ | [download](https://www.oecd.org/pisa/data/2018database/) |
 | PISA2022                 | ✔️ | ✖️ | ✖️ | [download](https://www.oecd.org/pisa/data/2022database/) |
 | SingPAD                 | ✖️ | ✖️ | ✖️ | [paper](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.30/2024.EDM-short-papers.30.pdf), [download](https://github.com/itec-hust/singKT-dataset) |
+| KDD Cup 2010                 |   |   |   | [download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
+| synthetic                 |   |   |   | [download](https://github.com/chrispiech/DeepKnowledgeTracing/tree/master/data/synthetic) |
+| slepemapy.cz         |   |   |   | [download](https://www.fi.muni.cz/adaptivelearning/?a=data) |
+| workbankr         |   |   |   | [download](https://drive.google.com/drive/folders/1ja9P5yzeUDyzzm748p5JObAEs_Evysgc) |
+| critlangacq         |   |   |   | [download](https://drive.google.com/drive/folders/1ja9P5yzeUDyzzm748p5JObAEs_Evysgc) |
+| Math23k         |   |   |   | [download](http://base.ustc.edu.cn/data/math23k.zip) |
+| MOOCCube         |   |   |   | [download](http://moocdata.cn/data/MOOCCube) |
+| NIPS2020         |   |   |   | [download](https://www.microsoft.com/en-us/research/academic-program/diagnostic-questions/) |
+| OpenLUNA         |   |   |   | [download](http://base.ustc.edu.cn/data/OpenLUNA/) |
+| Eedi         |   |   |   | [doc](https://eedi.com/projects/neurips-education-challenge), [download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
+| fsaif1tof3         |   |   |   | [download](https://github.com/ckyeungac/DeepIRT/tree/7749767d30adb4ef12889ea47e0bcfefedafb046/data/fsaif1tof3) |
 
 
 
@@ -210,6 +221,8 @@ http://staff.ustc.edu.cn/~qiliuql/#publications
 https://github.com/husthuke/awesome-knowledge-graph/tree/master （知识图谱相关）
 
 ## Datasets
+
+https://edudata.readthedocs.io/en/latest/index.html
 
 https://github.com/bigdata-ustc/EduData
 
