@@ -154,7 +154,7 @@ Method|Year|Paper|Code&Data|Others|
 | ASSISTment_2009-2010     | ✔️ | ✖️ | ✖️ | [[doc](doc/dataset/ASSISTment_2009-2010.md),[doc_CN](doc/dataset/ASSISTment_2009-2010_CN.md)]，[download](https://drive.google.com/file/d/0B2X0QD6q79ZJUFU1cjYtdGhVNjg/view?resourcekey=0-OyI8ZWxtGSAzhodUIcMf_g) |
 | ASSISTment_2012-2013     | ✔️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2012-2013.md)，[download](https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect) |
 | ASSISTment_2015-2016     | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2015-2016.md)，[download](https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data) |
-| ASSISTment_2017          | ✔️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2017.md)，[download](https://sites.google.com/view/assistmentsdatamining/dataset) |
+| ASSISTment_2017          | ✔️ | ✖️ | ✖️ | [[doc](doc/dataset/ASSISTment_2017.md),[doc_CN](doc/dataset/ASSISTment_2017_CN.md)]，[download](https://sites.google.com/view/assistmentsdatamining/dataset) |
 | Algebera_2005-2006       | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Algebera_2005-2006.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Algebera_2006-2007       | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Algebera_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Bridge2Algebra_2006-2007 | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Bridge2Algebra_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
