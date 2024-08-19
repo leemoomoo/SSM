@@ -148,8 +148,8 @@ Method|Year|Paper|Code&Data|Others|
 | Dataset Name | Student-Side Information | Exercise-Side Information | Knowldge Component Relation | Link |
 | :----------- | :-----------: | :------------: | :--------------: | :--------------------------------------------------: |
 | FrcSub                   | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/FrcSub.md)，[download](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) |
-| Math1                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math1.md)，[download](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) |
-| Math2                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math2.md)，[download](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) |
+| Math1                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math1.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar) |
+| Math2                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math2.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar)  |
 | AAAI_2023                | ✖️ | masked text | tree | [doc](doc/dataset/AAAI_2023.md)，[download](https://docs.google.com/forms/d/e/1FAIpQLScWjxiXdSMAKBtlPJZm9MsudUG9CQS16lT0GVfajpVj-mWReA/viewform?pli=1)|
 | ASSISTment_2009-2010     | ✔️ | ✖️ | ✖️ | [[doc](doc/dataset/ASSISTment_2009-2010.md),[doc_CN](doc/dataset/ASSISTment_2009-2010_CN.md)]，[download](https://drive.google.com/file/d/0B2X0QD6q79ZJUFU1cjYtdGhVNjg/view?resourcekey=0-OyI8ZWxtGSAzhodUIcMf_g) |
 | ASSISTment_2012-2013     | ✔️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2012-2013.md)，[download](https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect) |
@@ -178,7 +178,7 @@ Method|Year|Paper|Code&Data|Others|
 | slepemapy.cz         |   |   |   | [download](https://www.fi.muni.cz/adaptivelearning/?a=data) |
 | workbankr         |   |   |   | [download](https://drive.google.com/drive/folders/1ja9P5yzeUDyzzm748p5JObAEs_Evysgc) |
 | critlangacq         |   |   |   | [download](https://drive.google.com/drive/folders/1ja9P5yzeUDyzzm748p5JObAEs_Evysgc) |
-| Math23k         |   |   |   | [download](http://base.ustc.edu.cn/data/math23k.zip) |
+| Math23k         |   |   |   | [download1](http://base.ustc.edu.cn/data/math23k.zip),[download2](data/Math23k.zip) |
 | MOOCCube         |   |   |   | [paper](https://lfs.aminer.cn/misc/moocdata/publications/ACL20_Yu-et-al-MOOCCube.pdf), [doc&download](http://moocdata.cn/data/MOOCCube) |
 | NIPS2020         |   |   |   | [download](https://www.microsoft.com/en-us/research/academic-program/diagnostic-questions/) |
 | OpenLUNA         |   |   |   | [download](http://base.ustc.edu.cn/data/OpenLUNA/) |
