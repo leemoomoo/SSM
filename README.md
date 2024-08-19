@@ -18,6 +18,9 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Neural Cognitive Diagnosis ([NeuralCD](doc/NeuralCD.md))|2020| [[paper]](paper/NeuralCD.pdf)| [[code&data]](https://github.com/bigdata-ustc/NeuralCD)| [[note]](https://zhuanlan.zhihu.com/p/102024574)|
 |Hybrid Cognitive Diagnostic Model ([H-CDM](doc/H-CDM.md))|2020| [[paper](paper/H-CDM.pdf)]| [[code]](https://osf.io/z53mw/files/osfstorage#)| |
 |Item Response Ranking for Cognitive Diagnosis ([IRR](doc/IRR.md))|2021| [[paper](paper/IRR.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/blob/main/EduCDM/IRR)| [[poster](http://home.ustc.edu.cn/~tongsw/files/IRR_Poster.pdf), [slide](http://home.ustc.edu.cn/~tongsw/files/IRR_Slide.pdf)]|
+|Cognitive Diagnosis using Knowledge Concept Aggregation ([CDGK](doc/CDGK.md))|2021| [[paper](paper/CDGK.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/cdgk.py)]| |
+|Educational context-aware Cognitive Diagnosis ([ECD](doc/ECD.md))|2021| [[paper](paper/ECD.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/ecd.py)]| |
+|Cognitive Diagnostic Model Focusing on Knowledge Concept ([CDMFKC](doc/CDMFKC.md))|2022| [[paper](paper/CDMFKC.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/cdmfkc.py)]| |
 |Incremental Cognitive Diagnosis ([ICD](doc/ICD.md))|2022| [[paper](paper/ICD.pdf)]| [[code&data](https://github.com/bigdata-ustc/ICD)]| |
 |Hierarchical Cognitive Diagnosis Framework  ([HierCDF](doc/HierCDF.md))|2022| [[paper](paper/HierCDF.pdf)]| [[code&data](https://github.com/CSLiJT/HCD-code)]| |
 |Relation map driven Cognitive Diagnosis ([RCD](doc/RCD.md))|2022| [[paper](paper/RCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/RCD/)]| |
@@ -38,6 +41,9 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Collaborative-aware Mixed Exercise Sampling ([CMES](doc/CMES.md))|2024| [[paper](paper/CMES.pdf)]| [[code](https://github.com/WangCQ206/Intelligent-Education/tree/main/CMES)]| |
 |Symbolic Cognitive Diagnosis ([SymbolicCD](doc/SymbolicCD.md))|2024| [[paper](paper/SymbolicCD.pdf)]| [[code](https://github.com/shinkungoo/SymbolicCDM)]| |
 |Denoising GNN for Group-level Cognitive Diagnosis ([DGCD](doc/DGCD.md))|2024| [[paper](paper/DGCD.pdf)]| [[code](https://github.com/ssy0226/DGCD?tab=readme-ov-file)]| |
+|Fairness-aware Cognitive Diagnosis ([FairCD](doc/FairCD.md))|2024| [[paper](paper/FairCD.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/faircd.py)]| |
+
+
 
 # Knowledge Tracing (KT)
 
