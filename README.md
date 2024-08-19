@@ -48,8 +48,8 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 ## List of models
 |Method|Year|Paper|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|Bayesian Knowledge Tracing ([BKT](doc/BKT.md))|1994|  [[paper]](paper/BKT.pdf) |[[code1](https://github.com/CAHLR/pyBKT?tab=readme-ov-file), [code2](https://github.com/yemao616/Bayesian-Knowledge-Tracing)]||
-|Deep Knowledge Tracing ([DKT](doc/DKT.md))|2015|  [[paper]](paper/DKT.pdf) |[[code1&data](https://github.com/chrispiech/DeepKnowledgeTracing), [code2](code/DKT.zip)]||
+|Bayesian Knowledge Tracing ([BKT](doc/BKT.md))|1994|  [[paper]](paper/BKT.pdf) |[[code1](https://github.com/CAHLR/pyBKT?tab=readme-ov-file), [code2](https://github.com/yemao616/Bayesian-Knowledge-Tracing)]|[[blog]](https://www.zhangzhenhu.com/edm/bkt.html)|
+|Deep Knowledge Tracing ([DKT](doc/DKT.md))|2015|  [[paper]](paper/DKT.pdf) |[[code1&data](https://github.com/chrispiech/DeepKnowledgeTracing), [code2](code/DKT.zip)]|[[blog1](https://blog.csdn.net/kevinjin2011/article/details/125069293),[blog2](https://blog.csdn.net/zjlwdqca/article/details/112212828),[blog3](https://blog.csdn.net/sereasuesue/article/details/117966898),[video](https://www.bilibili.com/video/BV1Z34y1k7mc/?vd_source=3baea850a32406240b2de27ea2a6d520)]|
 |Dynamic Key-Value Memory Networks ([DKVMN](doc/DKVMN.md))|2017|  [[paper]](paper/DKVMN.pdf) |[[code1&data](https://github.com/jennyzhang0215/DKVMN), [code2](code/DKVMN.zip)]||
 |[DKT+](doc/DKT+.md)|2018|  [[paper]](paper/DKT+.pdf) |[[code]](https://github.com/ckyeungac/deep-knowledge-tracing-plus)||
 |[DKT+Forget](doc/DKT+Forget.md)|2019|  [[paper]](paper/DKT+Forget.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/dkt_forget.py)||
@@ -87,6 +87,24 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |COunterfactual REasoning framework for KT ([CORE](doc/CORE.md))|2023|  [[paper]](paper/CORE.pdf) |[[code]](https://github.com/lucky7-code/CORE)||
 |KT with Hybrid learning interactions Denoising approach ([HD-KT](doc/HD-KT.md))|2024|  [[paper]](paper/HD-KT.pdf) |||
 |Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
+|Deep Knowledge Tracing with Dynamic Student Classification ([DKT-DSC](doc/DKT-DSC.md))|2018|  [[paper]](paper/DKT-DSC.pdf) |[[code&data]](https://github.com/simon-tan/DKT-DSC)||
+|Learning Process-consistent Knowledge Tracing by introducing Student embedding ([LPKT-S](doc/LPKT-S.md))|2022|  [[paper]](paper/LPKT-S.pdf) |[[code&data]](https://github.com/shshen-closer/LPKT-S)||
+|Exercise-Enhanced Recurrent Neural Network ([EERNNM](doc/EERNNM.md))|2018|  [[paper]](paper/EERNNM.pdf) |[[code]](https://github.com/HFUT-LEC/EduStudio/blob/789d23f478fde13350d136a0e8094c91980459ae/edustudio/model/KT/eernn.py#L19)||
+|weighted heterogeneous graph-based Three-view Contrastive Learning framework for Knowledge Tracing ([TCL4KT](doc/TCL4KT.md))|2023|  [[paper]](paper/TCL4KT.pdf) |[[code]](https://github.com/lilstrawberry/TCL4KT)||
+|Adversarial Bootstrapped Question Representation ([ABQR](doc/ABQR.md))|2023|  [[paper]](paper/ABQR.pdf) |[[code&data]](https://github.com/lilstrawberry/ABQR?tab=readme-ov-file)||
+|Continuous Personalized Knowledge Tracing ([CPKT](doc/CPKT.md))|2023|  [[paper]](paper/CPKT.pdf) |[[code1](https://github.com/persai-lab/CIKM2023-CPKT),[code2](https://www.dropbox.com/scl/fo/ycx5dsnm07klu1kaxraod/AHrijxKHnHKQvalqXFSpoWY?rlkey=18xm2g6q8ztkunb22s6mlfnik&e=1&dl=0)]||
+|Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
+|Modeling Learning Transfer Effects in Knowledge Tracing: A Dynamic and Bidirectional Perspective ([DBTKT](doc/DBTKT.md))|2024|  [[paper]] |[[code]](https://github.com/weizhehuang0827/DBTKT)||
+|BERT Boosted Knowledge Tracing ([BERT-Boosted-KT](doc/BERT-Boosted-KT.md))|2024|  [[paper]](paper/BERT-Boosted-KT.pdf) |[[code]](https://github.com/dibyanshuchatterjee/BERT-Boosted-Knowledge-Tracing)||
+|Explainable Few-shot Knowledge Tracing ([EFKT](doc/EFKT.md))|2024|  [[paper]](paper/EFKT.pdf) |[[code&data]](https://github.com/LeavesLi1015/Explainable-Few-shot-Knowledge-Tracing)||
+|Concept map-driven Response disentanglement method for enhancing Knowledge Tracing ([CRKT](doc/CRKT.md))|2024|  [[paper]](paper/CRKT.pdf) |[[code&data]](https://github.com/Soonwook34/CRKT)||
+|Predictive, Scalable and Interpretable Knowledge Tracing ([PSI-KT](doc/PSI-KT.md))|2024|  [[paper]](paper/PSI-KT.pdf) |[[code]](https://github.com/mlcolab/psi-kt)||
+|Knowledge Tracing Model Based on Alternate Autoregressive Modeling ([AAKT](doc/AAKT.md))|2024|  [[paper]](paper/AAKT.pdf) |[[code&data]](https://github.com/alxzzhou/AAKT)||
+|Improving Model Fairness Outcomes with Time-Augmented Bayesian Knowledge Tracing ([BKT-Fairness](doc/BKT-Fairness.md))|2024|  [[paper]](paper/BKT-Fairness.pdf) |[[code]](https://github.com/jake126/BKT_fairness)||
+|Progressive Knowledge Tracing ([PKT](doc/PKT.md))|2024|  [[paper]](paper/PKT.pdf) |[[code&data]](https://github.com/WeiMengqi934/PKT)||
+
+
+
 
 ### Graph-based KT models
 Method|Year|Paper|Code&Data|Others|
@@ -95,9 +113,14 @@ Method|Year|Paper|Code&Data|Others|
 |Pre-training Embeddings via Bipartite Graph ([PEBG](doc/PEBG.md))|2020|  [[paper]](paper/PEBG.pdf) |[[code&data]](https://github.com/ApexEDM/PEBG)||
 |Graph-based Interactive Knowledge Tracing ([GIKT](doc/GIKT.md))|2021|  [[paper]](paper/GIKT.pdf) |[[code]](https://github.com/ApexEDM/GIKT)||
 |Session Graph-based Knowledge Tracing ([SGKT](doc/SGKT.md))|2022|  [[paper]](paper/SGKT.pdf) |[[code&data]](https://github.com/lhuang65/SGKT)||
+|Inductive Graph-based Knowledge Tracing ([IGKT](doc/IGKT.md))|2023|  [[paper]](paper/IGKT.pdf) |[[code&data]](https://github.com/venzino-han/IGKT_Bigcomp2023?tab=readme-ov-file)||
+|Inductive Graph-based Knowledge Tracing with Graph Attention layers incorporating Timestamps ([IGKT-GAT](doc/IGKT-GAT.md))|2023|  [[paper]](paper/IGKT-GAT.pdf) |[[code&data]](https://github.com/venzino-han/IGKT-GAT_APIN?tab=readme-ov-file)||
+|Psychological factors-enhanced heterogeneous learning interactive graph Knowledge Tracing ([Psy-KT](doc/Psy-KT.md))|2024|  [[paper]](paper/Psy-KT.pdf) |[[code]](https://github.com/CCNUZFW/Psy-KT)||
 |Dual Graph Ensemble learning method for Knowledge Tracing ([DGEKT](doc/DGEKT.md))|2024|  [[paper]](paper/DGEKT.pdf) |[[code&data]](https://github.com/Yumo216/DGEKT)||
+|Dynamic Graph-based Knowledge Tracing ([DyGKT](doc/DyGKT.md))|2024|  [[paper]](paper/DyGKT.pdf) |[[code&data]](https://github.com/PengLinzhi/DyGKT)||
+|Multiscale-state-based Interpretable Knowledge Tracing ([GTMKT])|2024|  [[paper]] |[[code&data]](https://github.com/Maybee99/GTMKT)||
 
-# Recommendation System
+# Recommendation Technology
 
 ## List of models
 |Method|Year|Paper|Code&Data|Others|
@@ -105,11 +128,12 @@ Method|Year|Paper|Code&Data|Others|
 |Probabilistic Matrix Factorization ([PMF](doc/PMF.md))|2007|  [[paper]](paper/PMF.pdf) |[[code]](https://github.com/fuhailin/Probabilistic-Matrix-Factorization)||
 |CO-Evolutionary algorithm based on Dual-enCoding and Dual-Population ([COE-DCDP](doc/COE-DCDP.md))|2023| [[paper](paper/COE-DCDP.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/COE-DCDP)]| |
 
+
 # Team Achievements
 
 |Name|Year|Form|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|计算机视觉大作业|2021|  [homework] |[[code]](code/罗志辉-计算机视觉大作业.rar)| |
+|计算机视觉大作业|2021|  [homework] |[[code]](code/罗志辉-计算机视觉大作业)| |
 |基于慕课数据的学习者评估模型研究与应用|2021|  [thesis](paper/Team/master_thesis_LiuChang_2021.pdf) || [[doc]](doc/master_thesis_LiuChang_2021.md)|
 |面向慕课学习者评估的认知反应模型|2023|  [journal paper](paper/Team/C&RM.pdf) || [[doc]](doc/C&RM.md)|
 |采用多头注意力机制的C&RM-MAKT预测算法|2023|  [journal paper](paper/Team/C&RM-MAKT.pdf) || [[doc]](doc/C&RM-MAKT.md)|
@@ -119,6 +143,8 @@ Method|Year|Paper|Code&Data|Others|
 
 
 # Reference
+
+https://github.com/HFUT-LEC/EduStudio
 
 https://github.com/ZhijieXiong/dlkt
 
