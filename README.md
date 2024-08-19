@@ -150,6 +150,8 @@ Method|Year|Paper|Code&Data|Others|
 
 # Reference
 
+## Models
+
 https://github.com/HFUT-LEC/EduStudio
 
 https://github.com/ZhijieXiong/dlkt
@@ -158,12 +160,20 @@ https://github.com/pykt-team/pykt-toolkit
 
 https://pykt.org/
 
-https://github.com/bigdata-ustc/EduCDM/blob/main/docs/MCD.md
+https://github.com/bigdata-ustc/EduCDM
 
 https://github.com/hcnoh/knowledge-tracing-collection-pytorch
 
 http://staff.ustc.edu.cn/~qiliuql/#publications
 
 https://github.com/husthuke/awesome-knowledge-graph/tree/master （知识图谱相关）
+
+## Datasets
+
+https://github.com/bigdata-ustc/EduData
+
+https://github.com/HFUT-LEC/awesome-student-cognitive-modeling/tree/main/datasets
+
+https://github.com/seewoo5/KT
 
 
