@@ -1,0 +1,17 @@
+# Psychological factors-enhanced heterogeneous learning interactive graph Knowledge Tracing
+## Abstract 
+Introduction: With the rapid expansion of online education, there is a burgeoning interest within the EdTech space to ofer tailored learning experiences that cater to individual student’s abilities and needs. Within this framework, knowledge tracing tasks have garnered considerable attention. The primary objective of knowledge tracing is to develop a model that assesses a student’s proficiency in a particular skill based on their historical performance in exercises, enabling predictions regarding the likelihood of correct responses in future exercises. While existing knowledge tracing models often incorporate information such as students’ exercise answering history and skill mastery level, they frequently overlook the students’ mental states during the learning process. Methods: This paper addresses this gap by introducing a novel psychological factors-enhanced heterogeneous learning interactive graph knowledge tracing model (Psy-KT). This model delineates the interactions among students, exercises, and skills through a heterogeneous graph, supplementing it with four psychological factors that capture students’ mental states during the learning process: frustration level, confusion level, concentration level, and boredom level. In the modeling of students’ learning processes, we incorporate the forgetting curve and construct relevant cognitive parameters from the features. Additionally, we employ the Item Response Theory (IRT) model to predict students’ performance in answering exercises at the subsequent time step. This model not only delves into the psychological aspects of students during the learning process but also integrates the simulation of forgetting, a natural phenomenon in the learning journey. The inclusion of cognitive parameters enhances the description of changes in students’ abilities throughout the learning process. This dual focus allows for a more comprehensive understanding of students’ learning behaviors while providing a high level of interpretability for the model. Results and discussion: Empirical validation of the Psy-KT model is conducted using four publicly available datasets, demonstrating its superior performance in predicting students’ future performance. Through rigorous experimentation, the integration of psychological and forgetting factors in the Psy-KT model not only improves predictive accuracy but also enables educators to ofer more targeted tutoring and advice, enhancing the overall efcacy of the learning experience.
+
+If the reader wants to know the details, please refer to the paper: *[Psychological Factors Enhanced Heterogeneous Learning Interactive Graph Knowledge Tracing for Understanding the Learning Process](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1359199/pdf)*. 
+
+```bibtex
+@article{wang2024psychological,
+  title={Psychological factors enhanced heterogeneous learning interactive graph knowledge tracing for understanding the learning process},
+  author={Wang, Zhifeng and Wu, Wanxuan and Zeng, Chunyan and Luo, Heng and Sun, Jianwen},
+  journal={Frontiers in Psychology},
+  volume={15},
+  pages={1359199},
+  year={2024},
+  publisher={Frontiers Media SA}
+}
+```
