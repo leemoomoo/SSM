@@ -52,6 +52,8 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |Deep Knowledge Tracing ([DKT](doc/DKT.md))|2015|  [[paper]](paper/DKT.pdf) |[[code1&data](https://github.com/chrispiech/DeepKnowledgeTracing), [code2](code/DKT.zip)]|[[blog1](https://blog.csdn.net/kevinjin2011/article/details/125069293),[blog2](https://blog.csdn.net/zjlwdqca/article/details/112212828),[blog3](https://blog.csdn.net/sereasuesue/article/details/117966898),[video](https://www.bilibili.com/video/BV1Z34y1k7mc/?vd_source=3baea850a32406240b2de27ea2a6d520)]|
 |Dynamic Key-Value Memory Networks ([DKVMN](doc/DKVMN.md))|2017|  [[paper]](paper/DKVMN.pdf) |[[code1&data](https://github.com/jennyzhang0215/DKVMN), [code2](code/DKVMN.zip)]||
 |[DKT+](doc/DKT+.md)|2018|  [[paper]](paper/DKT+.pdf) |[[code]](https://github.com/ckyeungac/deep-knowledge-tracing-plus)||
+|Exercise-Enhanced Recurrent Neural Network ([EERNNM](doc/EERNNM.md))|2018|  [[paper]](paper/EERNNM.pdf) |[[code]](https://github.com/HFUT-LEC/EduStudio/blob/789d23f478fde13350d136a0e8094c91980459ae/edustudio/model/KT/eernn.py#L19)||
+|Deep Knowledge Tracing with Dynamic Student Classification ([DKT-DSC](doc/DKT-DSC.md))|2018|  [[paper]](paper/DKT-DSC.pdf) |[[code&data]](https://github.com/simon-tan/DKT-DSC)||
 |[DKT+Forget](doc/DKT+Forget.md)|2019|  [[paper]](paper/DKT+Forget.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/dkt_forget.py)||
 |Self-Attentive Knowledge Tracing ([SAKT](doc/SAKT.md))|2019|  [[paper]](paper/SAKT.pdf) |[[code1](https://github.com/arshadshk/SAKT-pytorch), [code2](code/SAKT.zip)]||
 |Exercise-aware Knowledge Tracing ([EKT](doc/EKT.md))|2019|  [[paper]](paper/EKT.pdf) |[[code]](https://github.com/bigdata-ustc/ekt)|[[slide]](http://staff.ustc.edu.cn/~huangzhy/files/slides/ZhenyaHuang-TKDE-slide.pdf)|
@@ -77,6 +79,7 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |Contrastive Learning for Knowledge Tracing ([CL4KT](doc/CL4KT.md))|2022|  [[paper]](paper/CL4KT.pdf) |[[code]](https://github.com/UpstageAI/cl4kt)||
 |Convolution-Augmented Knowledge Tracing ([CAKT](doc/CAKT.md))|2022|  [[paper]](paper/CAKT.pdf) |[[code&data]](https://github.com/Badstu/CAKT)||
 |Interpretable Knowledge Tracing ([IKT](doc/IKT.md))|2022|  [[paper]](paper/IKT.pdf) |[[code]](https://github.com/simon-tan/IKT)||
+|Learning Process-consistent Knowledge Tracing by introducing Student embedding ([LPKT-S](doc/LPKT-S.md))|2022|  [[paper]](paper/LPKT-S.pdf) |[[code&data]](https://github.com/shshen-closer/LPKT-S)||
 |Learning Behavior-oriented Knowledge Tracing ([LBKT](doc/LBKT.md))|2023|  [[paper]](paper/LBKT.pdf) |[[code1](https://github.com/bigdata-ustc/EduKTM?tab=readme-ov-file), [code2](https://github.com/xbh0720/LBKT)]||
 |Forgetting-aware Linear Bias ([FoLiBi](doc/FoLiBi.md))|2023|  [[paper]](paper/FoLiBi.pdf) |[[code]](https://github.com/skewondr/FoLiBi)||
 |Diagnostic Transformer ([DTransformer](doc/DTransformer.md))|2023|  [[paper]](paper/DTransformer.pdf) |[[code&data]](https://github.com/yxonic/DTransformer)||
@@ -85,14 +88,11 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |[simpleKT](doc/simpleKT.md)|2023|  [[paper]](paper/simpleKT.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/simplekt.py)||
 |Knowledge Tracing Models via K-sparse Attention ([SparseKT](doc/SparseKT.md))|2023|  [[paper]](paper/SparseKT.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/sparsekt.py)||
 |COunterfactual REasoning framework for KT ([CORE](doc/CORE.md))|2023|  [[paper]](paper/CORE.pdf) |[[code]](https://github.com/lucky7-code/CORE)||
-|KT with Hybrid learning interactions Denoising approach ([HD-KT](doc/HD-KT.md))|2024|  [[paper]](paper/HD-KT.pdf) |||
-|Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
-|Deep Knowledge Tracing with Dynamic Student Classification ([DKT-DSC](doc/DKT-DSC.md))|2018|  [[paper]](paper/DKT-DSC.pdf) |[[code&data]](https://github.com/simon-tan/DKT-DSC)||
-|Learning Process-consistent Knowledge Tracing by introducing Student embedding ([LPKT-S](doc/LPKT-S.md))|2022|  [[paper]](paper/LPKT-S.pdf) |[[code&data]](https://github.com/shshen-closer/LPKT-S)||
-|Exercise-Enhanced Recurrent Neural Network ([EERNNM](doc/EERNNM.md))|2018|  [[paper]](paper/EERNNM.pdf) |[[code]](https://github.com/HFUT-LEC/EduStudio/blob/789d23f478fde13350d136a0e8094c91980459ae/edustudio/model/KT/eernn.py#L19)||
 |weighted heterogeneous graph-based Three-view Contrastive Learning framework for Knowledge Tracing ([TCL4KT](doc/TCL4KT.md))|2023|  [[paper]](paper/TCL4KT.pdf) |[[code]](https://github.com/lilstrawberry/TCL4KT)||
 |Adversarial Bootstrapped Question Representation ([ABQR](doc/ABQR.md))|2023|  [[paper]](paper/ABQR.pdf) |[[code&data]](https://github.com/lilstrawberry/ABQR?tab=readme-ov-file)||
 |Continuous Personalized Knowledge Tracing ([CPKT](doc/CPKT.md))|2023|  [[paper]](paper/CPKT.pdf) |[[code1](https://github.com/persai-lab/CIKM2023-CPKT),[code2](https://www.dropbox.com/scl/fo/ycx5dsnm07klu1kaxraod/AHrijxKHnHKQvalqXFSpoWY?rlkey=18xm2g6q8ztkunb22s6mlfnik&e=1&dl=0)]||
+|KT with Hybrid learning interactions Denoising approach ([HD-KT](doc/HD-KT.md))|2024|  [[paper]](paper/HD-KT.pdf) |||
+|Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
 |Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
 |Modeling Learning Transfer Effects in Knowledge Tracing: A Dynamic and Bidirectional Perspective ([DBTKT](doc/DBTKT.md))|2024|  [[paper]] |[[code]](https://github.com/weizhehuang0827/DBTKT)||
 |BERT Boosted Knowledge Tracing ([BERT-Boosted-KT](doc/BERT-Boosted-KT.md))|2024|  [[paper]](paper/BERT-Boosted-KT.pdf) |[[code]](https://github.com/dibyanshuchatterjee/BERT-Boosted-Knowledge-Tracing)||
@@ -133,7 +133,7 @@ Method|Year|Paper|Code&Data|Others|
 
 |Name|Year|Form|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|计算机视觉大作业|2021|  [homework] |[[code]](code/罗志辉-计算机视觉大作业)| |
+|计算机视觉大作业|2021|  homework |[[code]](code/罗志辉-计算机视觉大作业)| |
 |基于慕课数据的学习者评估模型研究与应用|2021|  [thesis](paper/Team/master_thesis_LiuChang_2021.pdf) || [[doc]](doc/master_thesis_LiuChang_2021.md)|
 |面向慕课学习者评估的认知反应模型|2023|  [journal paper](paper/Team/C&RM.pdf) || [[doc]](doc/C&RM.md)|
 |采用多头注意力机制的C&RM-MAKT预测算法|2023|  [journal paper](paper/Team/C&RM-MAKT.pdf) || [[doc]](doc/C&RM-MAKT.md)|
