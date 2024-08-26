@@ -184,6 +184,7 @@ Method|Year|Paper|Code&Data|Others|
 | OpenLUNA         |   |   |   | [download](http://base.ustc.edu.cn/data/OpenLUNA/) |
 | Eedi         |   |   |   | [doc](https://eedi.com/projects/neurips-education-challenge), [download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | fsaif1tof3         |   |   |   | [download](https://github.com/ckyeungac/DeepIRT/tree/7749767d30adb4ef12889ea47e0bcfefedafb046/data/fsaif1tof3) |
+| HNU_SYS         |   |   |   | [data](data/HNU_SYS/), [paper](paper/MvCRF.pdf)|
 
 
 
