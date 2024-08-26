@@ -145,7 +145,7 @@ Method|Year|Paper|Code&Data|Others|
 ## List of datasets
 
 | Dataset Name | Student-Side Information | Exercise-Side Information | Knowldge Component Relation | Link |
-| :----------- | :-----------: | :------------: | :--------------: | :--------------------------------------------------: |
+| :------------------ | :-----------: | :------------: | :--------------: | :--------------------------------------------------: |
 | 🌟FrcSub                   | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/FrcSub.md)，[download](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) |
 | 🌟Math1                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math1.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar) |
 | 🌟Math2                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math2.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar)  |
