@@ -54,28 +54,28 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 ## List of models
 |Method|Year|Paper|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|Bayesian Knowledge Tracing ([BKT](doc/BKT.md))|1994|  [[paper]](paper/BKT.pdf) |[[code1](https://github.com/CAHLR/pyBKT?tab=readme-ov-file), [code2](https://github.com/yemao616/Bayesian-Knowledge-Tracing)]|[[blog]](https://www.zhangzhenhu.com/edm/bkt.html)|
-|Deep Knowledge Tracing ([DKT](doc/DKT.md))|2015|  [[paper]](paper/DKT.pdf) |[[code1&data](https://github.com/chrispiech/DeepKnowledgeTracing), [code2](code/DKT.zip)]|[[blog1](https://blog.csdn.net/kevinjin2011/article/details/125069293),[blog2](https://blog.csdn.net/zjlwdqca/article/details/112212828),[blog3](https://blog.csdn.net/sereasuesue/article/details/117966898),[video](https://www.bilibili.com/video/BV1Z34y1k7mc/?vd_source=3baea850a32406240b2de27ea2a6d520)]|
-|Dynamic Key-Value Memory Networks ([DKVMN](doc/DKVMN.md))|2017|  [[paper]](paper/DKVMN.pdf) |[[code1&data](https://github.com/jennyzhang0215/DKVMN), [code2](code/DKVMN.zip)]||
-|[DKT+](doc/DKT+.md)|2018|  [[paper]](paper/DKT+.pdf) |[[code]](https://github.com/ckyeungac/deep-knowledge-tracing-plus)||
+|Bayesian Knowledge Tracing ([BKT](doc/BKT.md))🌟|1994|  [[paper]](paper/BKT.pdf) |[[code1](https://github.com/CAHLR/pyBKT?tab=readme-ov-file), [code2](https://github.com/yemao616/Bayesian-Knowledge-Tracing)]|[[blog]](https://www.zhangzhenhu.com/edm/bkt.html)|
+|Deep Knowledge Tracing ([DKT](doc/DKT.md))🌟|2015|  [[paper]](paper/DKT.pdf) |[[code1&data](https://github.com/chrispiech/DeepKnowledgeTracing), [code2](code/DKT.zip)]|[[blog1](https://blog.csdn.net/kevinjin2011/article/details/125069293),[blog2](https://blog.csdn.net/zjlwdqca/article/details/112212828),[blog3](https://blog.csdn.net/sereasuesue/article/details/117966898),[video](https://www.bilibili.com/video/BV1Z34y1k7mc/?vd_source=3baea850a32406240b2de27ea2a6d520)]|
+|Dynamic Key-Value Memory Networks ([DKVMN](doc/DKVMN.md))🌟|2017|  [[paper]](paper/DKVMN.pdf) |[[code1&data](https://github.com/jennyzhang0215/DKVMN), [code2](code/DKVMN.zip)]||
+|[DKT+](doc/DKT+.md)🌟|2018|  [[paper]](paper/DKT+.pdf) |[[code]](https://github.com/ckyeungac/deep-knowledge-tracing-plus)||
 |Exercise-Enhanced Recurrent Neural Network ([EERNNM](doc/EERNNM.md))|2018|  [[paper]](paper/EERNNM.pdf) |[[code]](https://github.com/HFUT-LEC/EduStudio/blob/789d23f478fde13350d136a0e8094c91980459ae/edustudio/model/KT/eernn.py#L19)||
 |Deep Knowledge Tracing with Dynamic Student Classification ([DKT-DSC](doc/DKT-DSC.md))|2018|  [[paper]](paper/DKT-DSC.pdf) |[[code&data]](https://github.com/simon-tan/DKT-DSC)||
-|[DKT+Forget](doc/DKT+Forget.md)|2019|  [[paper]](paper/DKT+Forget.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/dkt_forget.py)||
-|Self-Attentive Knowledge Tracing ([SAKT](doc/SAKT.md))|2019|  [[paper]](paper/SAKT.pdf) |[[code1](https://github.com/arshadshk/SAKT-pytorch), [code2](code/SAKT.zip)]||
-|Exercise-aware Knowledge Tracing ([EKT](doc/EKT.md))|2019|  [[paper]](paper/EKT.pdf) |[[code]](https://github.com/bigdata-ustc/ekt)|[[slide]](http://staff.ustc.edu.cn/~huangzhy/files/slides/ZhenyaHuang-TKDE-slide.pdf)|
+|[DKT+Forget](doc/DKT+Forget.md)🌟|2019|  [[paper]](paper/DKT+Forget.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/dkt_forget.py)||
+|Self-Attentive Knowledge Tracing ([SAKT](doc/SAKT.md))🌟|2019|  [[paper]](paper/SAKT.pdf) |[[code1](https://github.com/arshadshk/SAKT-pytorch), [code2](code/SAKT.zip)]||
+|Exercise-aware Knowledge Tracing ([EKT](doc/EKT.md))🌟|2019|  [[paper]](paper/EKT.pdf) |[[code]](https://github.com/bigdata-ustc/ekt)|[[slide]](http://staff.ustc.edu.cn/~huangzhy/files/slides/ZhenyaHuang-TKDE-slide.pdf)|
 |Knowledge Tracing Machines ([KTM](doc/KTM.md))|2019|  [[paper]](paper/KTM.pdf) |[[code&data]](https://github.com/jilljenn/ktm)|[[slide]](http://jiji.cat/slides/aaai2019-ktm-slides.pdf)|
 |Knowledge Query Network ([KQN](doc/KQN.md))|2019|  [[paper]](paper/KQN.pdf) |[[code&data]](https://github.com/JSLBen/Knowledge-Query-Network-for-Knowledge-Tracing)||
-|Sequential Key-Value Memory Networks ([SKVMN](doc/SKVMN.md))|2019|  [[paper]](paper/SKVMN.pdf) |[[code1](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/skvmn.py),[code2](https://github.com/Badstu/CAKT_othermodels/tree/0c28d870c0d5cf52cc2da79225e372be47b5ea83/SKVMN)]|[[slide]](https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf)|
+|Sequential Key-Value Memory Networks ([SKVMN](doc/SKVMN.md))🌟|2019|  [[paper]](paper/SKVMN.pdf) |[[code1](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/skvmn.py),[code2](https://github.com/Badstu/CAKT_othermodels/tree/0c28d870c0d5cf52cc2da79225e372be47b5ea83/SKVMN)]|[[slide]](https://graphlabanu.github.io/website/downloads/SIGIR2019_slides.pdf)|
 |Deep neural network based Item Response Theory ([DeepIRT](doc/DeepIRT.md))|2019|  [[paper]](paper/DeepIRT.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/deep_irt.py)||
 |Convolutional Knowledge Tracing ([CKT](doc/CKT.md))|2020|  [[paper]](paper/CKT.pdf) |[[code1&data](https://github.com/bigdata-ustc/Convolutional-Knowledge-Tracing), [code2](code/CKT.zip)]|[[slide]](http://staff.ustc.edu.cn/~huangzhy/files/slides/ShuanghongShen-SIGIR2020s-slide.pdf)|
 |Attentive Knowledge Tracing ([AKT](doc/AKT.md))|2020|  [[paper]](paper/AKT.pdf) |[[code&data]](https://github.com/arghosh/AKT)||
-|Separated Self-AttentIve Neural Knowledge Tracing ([SAINT](doc/SAINT.md))|2020|  [[paper]](paper/SAINT.pdf) |[[code]](https://github.com/arshadshk/SAINT-pytorch)||
+|Separated Self-AttentIve Neural Knowledge Tracing ([SAINT](doc/SAINT.md))🌟|2020|  [[paper]](paper/SAINT.pdf) |[[code]](https://github.com/arshadshk/SAINT-pytorch)||
 |Relation-aware self-attention model for Knowledge Tracing ([RKT](doc/RKT.md))|2020|  [[paper]](paper/RKT.pdf) |[[code]](https://github.com/shalini1194/RKT)||
 |Exercise-correlated Knowledge Proficiency Tracing/Knowledge Proficiency Tracing ([EKPT/KPT](doc/EKPT.md))|2020|  [[paper]](paper/EKPT.pdf) |[[code]](https://github.com/bigdata-ustc/EduKTM?tab=readme-ov-file)||
 |Structure-based Knowledge Tracing ([SKT](doc/SKT.md))|2020|  [[paper]](paper/SKT.pdf) |[[code]](https://github.com/bigdata-ustc/XKT)||
 |Question-centric Deep Knowledge Tracing ([qDKT](doc/qDKT.md))|2020|  [[paper]](paper/qDKT.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/qdkt.py)||
 |Fuzzy Bayesian Knowledge Tracing ([FBKT](doc/FBKT.md))|2021|  [[paper]](paper/FBKT.pdf) |[[code]](https://github.com/DMiC-Lab-HFUT/Fuzzy-Bayesian-knowledge-tracing)||
-|[SAINT+](doc/SAINT+.md)|2021|  [[paper]](paper/SAINT+.pdf) |[[code1](https://github.com/Shivanandmn/SAINT_plus-Knowledge-Tracing-), [code2](https://github.com/Chang-Chia-Chi/SaintPlus-Knowledge-Tracing-Pytorch)]||
+|[SAINT+](doc/SAINT+.md)🌟|2021|  [[paper]](paper/SAINT+.pdf) |[[code1](https://github.com/Shivanandmn/SAINT_plus-Knowledge-Tracing-), [code2](https://github.com/Chang-Chia-Chi/SaintPlus-Knowledge-Tracing-Pytorch)]||
 |Learning Process-consistent Knowledge Tracing  ([LPKT](doc/LPKT.md))|2021|  [[paper]](paper/LPKT.pdf) |[[code]](https://github.com/bigdata-ustc/EduKTM?tab=readme-ov-file)|[[slide](http://staff.ustc.edu.cn/~huangzhy/files/slides/ShuanghongShen-KDD2021-slide.pdf), [video](https://www.bilibili.com/video/BV1jg41157UX/)]|
 |Adversarial Training based KT  ([ATKT](doc/ATKT.md))|2021|  [[paper]](paper/ATKT.pdf) |[[code&data]](https://github.com/xiaopengguo/ATKT)||
 |Individual Estimation Knowledge Tracing  ([IEKT](doc/IEKT.md))|2021|  [[paper]](paper/IEKT.pdf) |[[code]](https://github.com/ApexEDM/iekt)||
@@ -99,7 +99,6 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |Continuous Personalized Knowledge Tracing ([CPKT](doc/CPKT.md))|2023|  [[paper]](paper/CPKT.pdf) |[[code1](https://github.com/persai-lab/CIKM2023-CPKT),[code2](https://www.dropbox.com/scl/fo/ycx5dsnm07klu1kaxraod/AHrijxKHnHKQvalqXFSpoWY?rlkey=18xm2g6q8ztkunb22s6mlfnik&e=1&dl=0)]||
 |KT with Hybrid learning interactions Denoising approach ([HD-KT](doc/HD-KT.md))|2024|  [[paper]](paper/HD-KT.pdf) |||
 |Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
-|Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
 |Modeling Learning Transfer Effects in Knowledge Tracing: A Dynamic and Bidirectional Perspective ([DBTKT](doc/DBTKT.md))|2024|  [[paper]] |[[code]](https://github.com/weizhehuang0827/DBTKT)||
 |BERT Boosted Knowledge Tracing ([BERT-Boosted-KT](doc/BERT-Boosted-KT.md))|2024|  [[paper]](paper/BERT-Boosted-KT.pdf) |[[code]](https://github.com/dibyanshuchatterjee/BERT-Boosted-Knowledge-Tracing)||
 |Explainable Few-shot Knowledge Tracing ([EFKT](doc/EFKT.md))|2024|  [[paper]](paper/EFKT.pdf) |[[code&data]](https://github.com/LeavesLi1015/Explainable-Few-shot-Knowledge-Tracing)||
@@ -115,10 +114,10 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 ### Graph-based KT models
 Method|Year|Paper|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|Graph-based Knowledge Tracing ([GKT](doc/GKT.md))|2019|  [[paper]](paper/GKT.pdf) |[[code&data]](https://github.com/jhljx/GKT?tab=readme-ov-file)||
+|Graph-based Knowledge Tracing ([GKT](doc/GKT.md))🌟|2019|  [[paper]](paper/GKT.pdf) |[[code&data]](https://github.com/jhljx/GKT?tab=readme-ov-file)||
 |Pre-training Embeddings via Bipartite Graph ([PEBG](doc/PEBG.md))|2020|  [[paper]](paper/PEBG.pdf) |[[code&data]](https://github.com/ApexEDM/PEBG)||
 |Graph-based Interactive Knowledge Tracing ([GIKT](doc/GIKT.md))|2021|  [[paper]](paper/GIKT.pdf) |[[code]](https://github.com/ApexEDM/GIKT)||
-|Session Graph-based Knowledge Tracing ([SGKT](doc/SGKT.md))|2022|  [[paper]](paper/SGKT.pdf) |[[code&data]](https://github.com/lhuang65/SGKT)||
+|Session Graph-based Knowledge Tracing ([SGKT](doc/SGKT.md))🌟|2022|  [[paper]](paper/SGKT.pdf) |[[code&data]](https://github.com/lhuang65/SGKT)||
 |Inductive Graph-based Knowledge Tracing ([IGKT](doc/IGKT.md))|2023|  [[paper]](paper/IGKT.pdf) |[[code&data]](https://github.com/venzino-han/IGKT_Bigcomp2023?tab=readme-ov-file)||
 |Inductive Graph-based Knowledge Tracing with Graph Attention layers incorporating Timestamps ([IGKT-GAT](doc/IGKT-GAT.md))|2023|  [[paper]](paper/IGKT-GAT.pdf) |[[code&data]](https://github.com/venzino-han/IGKT-GAT_APIN?tab=readme-ov-file)||
 |Psychological factors-enhanced heterogeneous learning interactive graph Knowledge Tracing ([Psy-KT](doc/Psy-KT.md))|2024|  [[paper]](paper/Psy-KT.pdf) |[[code]](https://github.com/CCNUZFW/Psy-KT)||
