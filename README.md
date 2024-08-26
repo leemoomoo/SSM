@@ -146,19 +146,19 @@ Method|Year|Paper|Code&Data|Others|
 
 | Dataset Name | Student-Side Information | Exercise-Side Information | Knowldge Component Relation | Link |
 | :----------- | :-----------: | :------------: | :--------------: | :--------------------------------------------------: |
-| FrcSub                   | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/FrcSub.md)，[download](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) |
-| Math1                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math1.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar) |
-| Math2                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math2.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar)  |
+| 🌟FrcSub                   | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/FrcSub.md)，[download](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar) |
+| 🌟Math1                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math1.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar) |
+| 🌟Math2                    | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Math2.md)，[download1](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar), [download2](data/math2015.rar)  |
 | AAAI_2023                | ✖️ | masked text | tree | [doc](doc/dataset/AAAI_2023.md)，[download](https://docs.google.com/forms/d/e/1FAIpQLScWjxiXdSMAKBtlPJZm9MsudUG9CQS16lT0GVfajpVj-mWReA/viewform?pli=1)|
-| ASSISTment_2009-2010     | ✔️ | ✖️ | ✖️ | [[doc](doc/dataset/ASSISTment_2009-2010.md),[doc_CN](doc/dataset/ASSISTment_2009-2010_CN.md)]，[download](https://drive.google.com/file/d/0B2X0QD6q79ZJUFU1cjYtdGhVNjg/view?resourcekey=0-OyI8ZWxtGSAzhodUIcMf_g) |
-| ASSISTment_2012-2013     | ✔️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2012-2013.md)，[download](https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect) |
-| ASSISTment_2015-2016     | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2015-2016.md)，[download](https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data) |
-| ASSISTment_2017          | ✔️ | ✖️ | ✖️ | [[doc](doc/dataset/ASSISTment_2017.md),[doc_CN](doc/dataset/ASSISTment_2017_CN.md)]，[download](https://sites.google.com/view/assistmentsdatamining/dataset) |
+| 🌟ASSISTment_2009-2010     | ✔️ | ✖️ | ✖️ | [[doc](doc/dataset/ASSISTment_2009-2010.md),[doc_CN](doc/dataset/ASSISTment_2009-2010_CN.md)]，[download](https://drive.google.com/file/d/0B2X0QD6q79ZJUFU1cjYtdGhVNjg/view?resourcekey=0-OyI8ZWxtGSAzhodUIcMf_g) |
+| 🌟ASSISTment_2012-2013     | ✔️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2012-2013.md)，[download](https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect) |
+| 🌟ASSISTment_2015-2016     | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/ASSISTment_2015-2016.md)，[download](https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data) |
+| 🌟ASSISTment_2017          | ✔️ | ✖️ | ✖️ | [[doc](doc/dataset/ASSISTment_2017.md),[doc_CN](doc/dataset/ASSISTment_2017_CN.md)]，[download](https://sites.google.com/view/assistmentsdatamining/dataset) |
 | Algebera_2005-2006       | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Algebera_2005-2006.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Algebera_2006-2007       | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Algebera_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Bridge2Algebra_2006-2007 | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Bridge2Algebra_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Junyi                    | ✖️ | ✖️ | tree and prerequisite | [doc](doc/dataset/Junyi.md)，[download](https://pslcdatashop.web.cmu.edu/Project?id=244) |
-| EdNet                | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/EdNet_CN.md)，[download](https://github.com/riiid/ednet?tab=readme-ov-file) |
+| 🌟EdNet                | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/EdNet_CN.md)，[download](https://github.com/riiid/ednet?tab=readme-ov-file) |
 | Eedi_2020_Task1&2        | ✔️ | ✖️ | tree | [doc](doc/dataset/Eedi_2020_Task1&2.md)，[download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | Eedi_2020_Task3&4        | ✔️ | images    | tree | [doc](doc/dataset/Eedi_2020_Task3&4.md)，[download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | Statics - Fall 2011      | ✖️ | web pages | ✖️ | [doc](doc/dataset/Statics%20-%20Fall%202011.md)，[download](https://pslcdatashop.web.cmu.edu/Export?datasetId=507) |
