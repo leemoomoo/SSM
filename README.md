@@ -192,7 +192,7 @@ Method|Year|Paper|Code&Data|Others|
 |Name|Year|Form|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 |计算机视觉大作业|2021|  homework |[[code]](code/罗志辉-计算机视觉大作业)| |
-|基于慕课数据的学习者评估模型研究与应用|2021|  [thesis](paper/Team/master_thesis_LiuChang_2021.pdf) || [[doc]](doc/master_thesis_LiuChang_2021.md), [note](note/湖大-基于慕课数据的学习者评估模型Matlab代码笔记-陈曦.pdf)|
+|基于慕课数据的学习者评估模型研究与应用|2021|  [thesis](paper/Team/master_thesis_LiuChang_2021.pdf) || [[doc](doc/master_thesis_LiuChang_2021.md),[note](note/湖大-基于慕课数据的学习者评估模型Matlab代码笔记-陈曦.pdf)] |
 |面向慕课学习者评估的认知反应模型|2023|  [journal paper](paper/Team/C&RM.pdf) || [[doc]](doc/C&RM.md)|
 |采用多头注意力机制的C&RM-MAKT预测算法|2023|  [journal paper](paper/Team/C&RM-MAKT.pdf) || [[doc]](doc/C&RM-MAKT.md)|
 |Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC|2023|  [journal paper](paper/MvCRF.pdf) |[[code](code/MvCRF.zip), [data](data/HNU_SYS/)]|[[doc]](doc/MvCRF.md) |
