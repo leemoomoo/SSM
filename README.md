@@ -60,6 +60,8 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |[DKT+](doc/DKT+.md)🌟|2018|  [[paper]](paper/DKT+.pdf) |[[code]](https://github.com/ckyeungac/deep-knowledge-tracing-plus)||
 |Exercise-Enhanced Recurrent Neural Network ([EERNNM](doc/EERNNM.md))|2018|  [[paper]](paper/EERNNM.pdf) |[[code]](https://github.com/HFUT-LEC/EduStudio/blob/789d23f478fde13350d136a0e8094c91980459ae/edustudio/model/KT/eernn.py#L19)||
 |Deep Knowledge Tracing with Dynamic Student Classification ([DKT-DSC](doc/DKT-DSC.md))|2018|  [[paper]](paper/DKT-DSC.pdf) |[[code&data]](https://github.com/simon-tan/DKT-DSC)||
+|Concept-Aware Dynamic Key-Value Memory Networks ([DKVMN-CA](doc/DKVMN-CA.md))|2019|  [[paper]](paper/DKVMN-CA.pdf) |[[code]](https://github.com/AiFangzhe/Exercise-Recommendation-System)||
+|基于知识追踪的智能导学算法设计 ([DKVMN-CA](doc/DKVMN-CA.md))|2019|  [[thesis]](paper/基于知识追踪的智能导学算法设计(2019).pdf) |[[code]](https://github.com/AiFangzhe/Exercise-Recommendation-System)|[[doc]]()|
 |[DKT+Forget](doc/DKT+Forget.md)🌟|2019|  [[paper]](paper/DKT+Forget.pdf) |[[code]](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/dkt_forget.py)||
 |Self-Attentive Knowledge Tracing ([SAKT](doc/SAKT.md))🌟|2019|  [[paper]](paper/SAKT.pdf) |[[code1](https://github.com/arshadshk/SAKT-pytorch), [code2](code/SAKT.zip)]||
 |Exercise-aware Knowledge Tracing ([EKT](doc/EKT.md))🌟|2019|  [[paper]](paper/EKT.pdf) |[[code]](https://github.com/bigdata-ustc/ekt)|[[slide]](http://staff.ustc.edu.cn/~huangzhy/files/slides/ZhenyaHuang-TKDE-slide.pdf)|
