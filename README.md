@@ -23,7 +23,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Cognitive Diagnostic Model Focusing on Knowledge Concept ([CDMFKC](doc/CDMFKC.md))|2022| [[paper](paper/CDMFKC.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/cdmfkc.py)]| |
 |Incremental Cognitive Diagnosis ([ICD](doc/ICD.md))|2022| [[paper](paper/ICD.pdf)]| [[code&data](https://github.com/bigdata-ustc/ICD)]| |
 |Hierarchical Cognitive Diagnosis Framework  ([HierCDF](doc/HierCDF.md))|2022| [[paper](paper/HierCDF.pdf)]| [[code&data](https://github.com/CSLiJT/HCD-code)]| |
-|Relation map driven Cognitive Diagnosis ([RCD](doc/RCD.md))|2022| [[paper](paper/RCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/RCD/)]| |
+|Relation map driven Cognitive Diagnosis ([RCD](doc/RCD.md))|2022| [[paper](paper/RCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/RCD/)]| [[blog1](https://blog.csdn.net/Highlight_Jin/article/details/119060653), [blog2](https://blog.csdn.net/qq_36291847/article/details/120753133)]|
 |Knowledge-Sensed Cognitive Diagnosis ([KSCD](doc/KSCD.md))|2022| [[paper](paper/KSCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/KSCD_Code_F)]| |
 |Continuous Time based Neural Cognitive Modeling ([CT-NCM](doc/CT-NCM.md))|2022| [[paper](paper/CT-NCM.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/CTNCM)]| |
 |Prerequisite Attention model for Knowledge Proficiency diagnosis of students ([PAKP](doc/PAKP.md))|2022| [[paper](paper/PAKP.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/PAKP)]| |
