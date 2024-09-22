@@ -15,7 +15,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Higher-order DINA ([HO-DINA](doc/HO-DINA.md))🌟|2009|  [[paper]](paper/HO-DINA.pdf) |||
 |Fuzzy Cognitive Diagnosis Framework ([FuzzyCDF](doc/FuzzyCDF.md))🌟|2018| [[paper]](paper/FuzzyCDF.pdf) |[[code1](http://staff.ustc.edu.cn/~qiliuql/data/source.zip),[code2](https://github.com/BlackMambaCN/FuzzyCDF),[code3](https://github.com/bigdata-ustc/EduCDM/tree/main),[data](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar)] ||
 |Higher-Order Probabilistic-Input, Noisy Conjunctive ([HO-PINC](doc/HO-PINC.md))|2018| [[paper](paper/HO-PINC.pdf)]| [[code](code/JAGS_code.pdf)]| |
-|Neural Cognitive Diagnosis ([NeuralCD](doc/NeuralCD.md))🌟|2020| [[paper]](paper/NeuralCD.pdf)| [[code&data]](https://github.com/bigdata-ustc/NeuralCD)| [[note]](https://zhuanlan.zhihu.com/p/102024574)|
+|Neural Cognitive Diagnosis ([NeuralCD](doc/NeuralCD.md))🌟|2020| [[paper]](paper/NeuralCD.pdf)| [[code&data]](https://github.com/bigdata-ustc/NeuralCD)| [[blog1](https://zhuanlan.zhihu.com/p/102024574),[blog2](https://blog.csdn.net/qq_36317312/article/details/109990747)]|
 |Hybrid Cognitive Diagnostic Model ([H-CDM](doc/H-CDM.md))|2020| [[paper](paper/H-CDM.pdf)]| [[code]](https://osf.io/z53mw/files/osfstorage#)| |
 |Item Response Ranking for Cognitive Diagnosis ([IRR](doc/IRR.md))|2021| [[paper](paper/IRR.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/blob/main/EduCDM/IRR)| [[poster](http://home.ustc.edu.cn/~tongsw/files/IRR_Poster.pdf), [slide](http://home.ustc.edu.cn/~tongsw/files/IRR_Slide.pdf)]|
 |Cognitive Diagnosis using Knowledge Concept Aggregation ([CDGK](doc/CDGK.md))|2021| [[paper](paper/CDGK.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/cdgk.py)]| |
