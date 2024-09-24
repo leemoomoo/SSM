@@ -30,7 +30,6 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Multivariate Cognitive Response Framework ([MvCRF](doc/MvCRF.md))|2023| [[paper](paper/MvCRF.pdf)]| [[code](code/MvCRF.zip), [data](data/HNU_SYS/)]| |
 |Reliable Cognitive Diagnosis ([ReliCD](doc/ReliCD.md))|2023| [[paper](paper/ReliCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/ReliCD)]| |
 |Self-supervised Cognitive Diagnosis ([SCD](doc/SCD.md))|2023| [[paper](paper/SCD.pdf)]| [[code](https://github.com/zeng-zhen/SCD)]| |
-|Dynamic Cognitive Diagnosis ([DynamicCD](doc/DynamicCD.md))|2023| [[paper](paper/DynamicCD.pdf)]| [[code&data](https://github.com/LegionKing/Dynamic-Cognitive-Diagnosis)]| |
 |Exercise-aware Informative Response Sampling ([EIRS](doc/EIRS.md))|2023| [[paper](paper/EIRS.pdf)]| [[code&data](https://github.com/fannazya/EIRS)]| |
 |Transferable knowledgE Concept grapH embedding framework for Cognitive Diagnosis ([TechCD](doc/TechCD.md))|2023| [[paper](paper/TechCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/TechCD?tab=readme-ov-file)]| |
 |Evolutionary Multi-objective Optimization based Neural Architecture Search for Cognitive Diagnosis ([EMO-NAS-CD](doc/EMO-NAS-CD.md))|2023| [[paper](paper/EMO-NAS-CD.pdf)]| [[code](https://github.com/DevilYangS/EMO-NAS-CD)]| |
@@ -99,6 +98,7 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |weighted heterogeneous graph-based Three-view Contrastive Learning framework for Knowledge Tracing ([TCL4KT](doc/TCL4KT.md))|2023|  [[paper]](paper/TCL4KT.pdf) |[[code]](https://github.com/lilstrawberry/TCL4KT)||
 |Adversarial Bootstrapped Question Representation ([ABQR](doc/ABQR.md))|2023|  [[paper]](paper/ABQR.pdf) |[[code&data]](https://github.com/lilstrawberry/ABQR?tab=readme-ov-file)||
 |Continuous Personalized Knowledge Tracing ([CPKT](doc/CPKT.md))|2023|  [[paper]](paper/CPKT.pdf) |[[code1](https://github.com/persai-lab/CIKM2023-CPKT),[code2](https://www.dropbox.com/scl/fo/ycx5dsnm07klu1kaxraod/AHrijxKHnHKQvalqXFSpoWY?rlkey=18xm2g6q8ztkunb22s6mlfnik&e=1&dl=0)]||
+|Dynamic Cognitive Diagnosis ([DynamicCD](doc/DynamicCD.md))|2023| [[paper](paper/DynamicCD.pdf)]| [[code&data](https://github.com/LegionKing/Dynamic-Cognitive-Diagnosis)]| |
 |KT with Hybrid learning interactions Denoising approach ([HD-KT](doc/HD-KT.md))|2024|  [[paper]](paper/HD-KT.pdf) |||
 |Multiscale-state-based Interpretable Knowledge Tracing ([MIKT](doc/MIKT.md))|2024|  [[paper]](paper/MIKT.pdf) |[[code]](https://github.com/lilstrawberry/MIKT)||
 |Modeling Learning Transfer Effects in Knowledge Tracing: A Dynamic and Bidirectional Perspective ([DBTKT](doc/DBTKT.md))|2024|  [[paper]] |[[code]](https://github.com/weizhehuang0827/DBTKT)||
