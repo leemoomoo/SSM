@@ -13,9 +13,9 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Multidimensional Item Response Theory ([MIRT](doc/MIRT.md))🌟| 2009| [[paper]](http://ndl.ethernet.edu.et/bitstream/123456789/60415/1/116.pdf)| [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)||
 |Deterministic Inputs, Noisy "And" gate model ([DINA](doc/DINA.md))🌟|2009|  [[paper]](paper/DINA.pdf) |[[code1](https://github.com/bigdata-ustc/EduCDM/tree/main),[code2](https://github.com/inzhengda/DINA)]||
 |Higher-order DINA ([HO-DINA](doc/HO-DINA.md))🌟|2009|  [[paper]](paper/HO-DINA.pdf) |||
-|Fuzzy Cognitive Diagnosis Framework ([FuzzyCDF](doc/FuzzyCDF.md))🌟|2018| [[paper]](paper/FuzzyCDF.pdf) |[[code1](http://staff.ustc.edu.cn/~qiliuql/data/source.zip),[code2](https://github.com/BlackMambaCN/FuzzyCDF),[code3](https://github.com/bigdata-ustc/EduCDM/tree/main),[data](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar)] ||
+|Fuzzy Cognitive Diagnosis Framework ([FuzzyCDF](doc/FuzzyCDF.md))❣|2018| [[paper]](paper/FuzzyCDF.pdf) |[[code1](http://staff.ustc.edu.cn/~qiliuql/data/source.zip),[code2](https://github.com/BlackMambaCN/FuzzyCDF),[code3](https://github.com/bigdata-ustc/EduCDM/tree/main),[data](http://staff.ustc.edu.cn/~qiliuql/data/math2015.rar)] ||
 |Higher-Order Probabilistic-Input, Noisy Conjunctive ([HO-PINC](doc/HO-PINC.md))|2018| [[paper](paper/HO-PINC.pdf)]| [[code](code/JAGS_code.pdf)]| |
-|Neural Cognitive Diagnosis ([NeuralCD](doc/NeuralCD.md))🌟|2020| [[paper]](paper/NeuralCD.pdf)| [[code&data]](https://github.com/bigdata-ustc/NeuralCD)| [[blog1](https://zhuanlan.zhihu.com/p/102024574),[blog2](https://blog.csdn.net/qq_36317312/article/details/109990747)]|
+|Neural Cognitive Diagnosis ([NeuralCD](doc/NeuralCD.md))❣|2020| [[paper]](paper/NeuralCD.pdf)| [[code&data]](https://github.com/bigdata-ustc/NeuralCD)| [[blog1](https://zhuanlan.zhihu.com/p/102024574),[blog2](https://blog.csdn.net/qq_36317312/article/details/109990747)]|
 |Hybrid Cognitive Diagnostic Model ([H-CDM](doc/H-CDM.md))|2020| [[paper](paper/H-CDM.pdf)]| [[code]](https://osf.io/z53mw/files/osfstorage#)| |
 |Item Response Ranking for Cognitive Diagnosis ([IRR](doc/IRR.md))|2021| [[paper](paper/IRR.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/blob/main/EduCDM/IRR)| [[poster](http://home.ustc.edu.cn/~tongsw/files/IRR_Poster.pdf), [slide](http://home.ustc.edu.cn/~tongsw/files/IRR_Slide.pdf)]|
 |Cognitive Diagnosis using Knowledge Concept Aggregation ([CDGK](doc/CDGK.md))|2021| [[paper](paper/CDGK.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/cdgk.py)]| |
@@ -23,10 +23,10 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Cognitive Diagnostic Model Focusing on Knowledge Concept ([CDMFKC](doc/CDMFKC.md))|2022| [[paper](paper/CDMFKC.pdf)]| [[code](https://github.com/HFUT-LEC/EduStudio/blob/main/edustudio/model/CD/cdmfkc.py)]| |
 |Incremental Cognitive Diagnosis ([ICD](doc/ICD.md))|2022| [[paper](paper/ICD.pdf)]| [[code&data](https://github.com/bigdata-ustc/ICD)]| |
 |Hierarchical Cognitive Diagnosis Framework  ([HierCDF](doc/HierCDF.md))|2022| [[paper](paper/HierCDF.pdf)]| [[code&data](https://github.com/CSLiJT/HCD-code)]| |
-|Relation map driven Cognitive Diagnosis ([RCD](doc/RCD.md))🌟|2022| [[paper](paper/RCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/RCD/)]| [[blog1](https://blog.csdn.net/Highlight_Jin/article/details/119060653), [blog2](https://blog.csdn.net/qq_36291847/article/details/120753133)]|
-|Knowledge-Sensed Cognitive Diagnosis ([KSCD](doc/KSCD.md))🌟|2022| [[paper](paper/KSCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/KSCD_Code_F)]| |
+|Relation map driven Cognitive Diagnosis ([RCD](doc/RCD.md))❣|2022| [[paper](paper/RCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/RCD/)]| [[blog1](https://blog.csdn.net/Highlight_Jin/article/details/119060653), [blog2](https://blog.csdn.net/qq_36291847/article/details/120753133)]|
+|Knowledge-Sensed Cognitive Diagnosis ([KSCD](doc/KSCD.md))❣|2022| [[paper](paper/KSCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/KSCD_Code_F)]| |
 |Prerequisite Attention model for Knowledge Proficiency diagnosis of students ([PAKP](doc/PAKP.md))|2022| [[paper](paper/PAKP.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/PAKP)]| |
-|Knowledge-association based extension of the NeuralCDM ([KaNCD](doc/KaNCD.md))🌟|2023| [[paper](paper/KaNCD.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)| |
+|Knowledge-association based extension of the NeuralCDM ([KaNCD](doc/KaNCD.md))❣|2023| [[paper](paper/KaNCD.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)| |
 |Multivariate Cognitive Response Framework ([MvCRF](doc/MvCRF.md))|2023| [[paper](paper/MvCRF.pdf)]| [[code](code/MvCRF.zip), [data](data/HNU_SYS/)]| |
 |Reliable Cognitive Diagnosis ([ReliCD](doc/ReliCD.md))|2023| [[paper](paper/ReliCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/ReliCD)]| |
 |Self-supervised Cognitive Diagnosis ([SCD](doc/SCD.md))|2023| [[paper](paper/SCD.pdf)]| [[code](https://github.com/zeng-zhen/SCD)]| |
@@ -34,7 +34,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Transferable knowledgE Concept grapH embedding framework for Cognitive Diagnosis ([TechCD](doc/TechCD.md))|2023| [[paper](paper/TechCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/TechCD?tab=readme-ov-file)]| |
 |Evolutionary Multi-objective Optimization based Neural Architecture Search for Cognitive Diagnosis ([EMO-NAS-CD](doc/EMO-NAS-CD.md))|2023| [[paper](paper/EMO-NAS-CD.pdf)]| [[code](https://github.com/DevilYangS/EMO-NAS-CD)]| |
 |Neural Architecture Search for Generalized Cognitive Diagnosis  ([NAS-GCD](doc/NAS-GCD.md))|2023| [[paper](paper/NAS-GCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/NAS-GCD)]| |
-|Affect-aware Cognitive Diagnosis ([ACD](doc/ACD.md))🌟|2024| [[paper](paper/ACD.pdf)]| [[code&data](https://github.com/zeng-zhen/ACD)]| |
+|Affect-aware Cognitive Diagnosis ([ACD](doc/ACD.md))❣|2024| [[paper](paper/ACD.pdf)]| [[code&data](https://github.com/zeng-zhen/ACD)]| |
 |Disentangling Cognitive Diagnosis ([DCD](doc/DCD.md))|2024| [[paper](paper/DCD.pdf)]| [[code](https://github.com/kervias/DCD)]| |
 |Collaborative-aware Mixed Exercise Sampling ([CMES](doc/CMES.md))|2024| [[paper](paper/CMES.pdf)]| [[code](https://github.com/WangCQ206/Intelligent-Education/tree/main/CMES)]| |
 |Symbolic Cognitive Diagnosis ([SymbolicCD](doc/SymbolicCD.md))|2024| [[paper](paper/SymbolicCD.pdf)]| [[code](https://github.com/shinkungoo/SymbolicCDM)]| |
@@ -194,10 +194,10 @@ Method|Year|Paper|Code&Data|Others|
 |Name|Year|Form|Code&Data|Others|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 |计算机视觉大作业|2021|  homework |[[code]](code/罗志辉-计算机视觉大作业)| |
-|基于慕课数据的学习者评估模型研究与应用|2021|  [thesis](paper/Team/master_thesis_LiuChang_2021.pdf) || [[doc](doc/master_thesis_LiuChang_2021.md),[note](note/湖大-基于慕课数据的学习者评估模型Matlab代码笔记-陈曦.pdf)] |
-|面向慕课学习者评估的认知反应模型|2023|  [journal paper](paper/Team/C&RM.pdf) || [[doc]](doc/C&RM.md)|
+|基于慕课数据的学习者评估模型研究与应用❣|2021|  [thesis](paper/Team/master_thesis_LiuChang_2021.pdf) || [[doc](doc/master_thesis_LiuChang_2021.md),[note](note/湖大-基于慕课数据的学习者评估模型Matlab代码笔记-陈曦.pdf)] |
+|面向慕课学习者评估的认知反应模型❣|2023|  [journal paper](paper/Team/C&RM.pdf) || [[doc]](doc/C&RM.md)|
 |采用多头注意力机制的C&RM-MAKT预测算法|2023|  [journal paper](paper/Team/C&RM-MAKT.pdf) || [[doc]](doc/C&RM-MAKT.md)|
-|Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC|2023|  [journal paper](paper/MvCRF.pdf) |[[code](code/MvCRF.zip), [data](data/HNU_SYS/)]|[[doc]](doc/MvCRF.md) |
+|Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC❣|2023|  [journal paper](paper/MvCRF.pdf) |[[code](code/MvCRF.zip), [data](data/HNU_SYS/)]|[[doc]](doc/MvCRF.md) |
 |融入课程知识图谱的 KMAKT 预测算法|2024|  [journal paper](paper/Team/KMAKT.pdf) || [[doc]](doc/KMAKT.md)|
 
 
