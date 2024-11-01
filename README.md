@@ -159,7 +159,7 @@ Method|Year|Paper|Code&Data|Others|
 | Algebera_2005-2006       | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Algebera_2005-2006.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Algebera_2006-2007       | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Algebera_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
 | Bridge2Algebra_2006-2007 | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/Bridge2Algebra_2006-2007.md)，[download](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp) |
-| Junyi                    | ✖️ | ✖️ | tree and prerequisite | [doc](doc/dataset/Junyi.md)，[download](https://pslcdatashop.web.cmu.edu/Project?id=244) |
+| 🌟Junyi                    | ✖️ | ✖️ | tree and prerequisite | [doc](doc/dataset/Junyi.md)，[download](https://pslcdatashop.web.cmu.edu/Project?id=244) |
 | 🌟EdNet                | ✖️ | ✖️ | ✖️ | [doc](doc/dataset/EdNet_CN.md)，[download](https://github.com/riiid/ednet?tab=readme-ov-file) |
 | Eedi_2020_Task1&2        | ✔️ | ✖️ | tree | [doc](doc/dataset/Eedi_2020_Task1&2.md)，[download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | Eedi_2020_Task3&4        | ✔️ | images    | tree | [doc](doc/dataset/Eedi_2020_Task3&4.md)，[download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
@@ -185,7 +185,7 @@ Method|Year|Paper|Code&Data|Others|
 | OpenLUNA         |   |   |   | [download](http://base.ustc.edu.cn/data/OpenLUNA/) |
 | Eedi         |   |   |   | [doc](https://eedi.com/projects/neurips-education-challenge), [download](https://dqanonymousdata.blob.core.windows.net/neurips-public/data.zip) |
 | fsaif1tof3         |   |   |   | [download](https://github.com/ckyeungac/DeepIRT/tree/7749767d30adb4ef12889ea47e0bcfefedafb046/data/fsaif1tof3) |
-| HNU_SYS         |   |   |   | [data](data/HNU_SYS/), [paper](paper/MvCRF.pdf)|
+| ❣HNU_SYS         |   |   |   | [data](data/HNU_SYS/), [paper](paper/MvCRF.pdf)|
 
 
 
