@@ -34,7 +34,7 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Transferable knowledgE Concept grapH embedding framework for Cognitive Diagnosis ([TechCD](doc/TechCD.md))|2023| [[paper](paper/TechCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/TechCD?tab=readme-ov-file)]| |
 |Evolutionary Multi-objective Optimization based Neural Architecture Search for Cognitive Diagnosis ([EMO-NAS-CD](doc/EMO-NAS-CD.md))|2023| [[paper](paper/EMO-NAS-CD.pdf)]| [[code](https://github.com/DevilYangS/EMO-NAS-CD)]| |
 |Neural Architecture Search for Generalized Cognitive Diagnosis  ([NAS-GCD](doc/NAS-GCD.md))|2023| [[paper](paper/NAS-GCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/NAS-GCD)]| |
-|Affect-aware Cognitive Diagnosis ([ACD](doc/ACD.md))❣|2024| [[paper](paper/ACD.pdf)]| [[code&data](https://github.com/zeng-zhen/ACD)]| |
+|Affect-aware Cognitive Diagnosis ([ACD](doc/ACD.md))❣|2024| [[paper](paper/ACD.pdf)]| [[code&data](https://github.com/zeng-zhen/ACD)]|[[note](note/认知诊断笔记.pptx)] |
 |Disentangling Cognitive Diagnosis ([DCD](doc/DCD.md))|2024| [[paper](paper/DCD.pdf)]| [[code](https://github.com/kervias/DCD)]| |
 |Collaborative-aware Mixed Exercise Sampling ([CMES](doc/CMES.md))|2024| [[paper](paper/CMES.pdf)]| [[code](https://github.com/WangCQ206/Intelligent-Education/tree/main/CMES)]| |
 |Symbolic Cognitive Diagnosis ([SymbolicCD](doc/SymbolicCD.md))|2024| [[paper](paper/SymbolicCD.pdf)]| [[code](https://github.com/shinkungoo/SymbolicCDM)]| |
@@ -197,7 +197,7 @@ Method|Year|Paper|Code&Data|Others|
 |基于慕课数据的学习者评估模型研究与应用❣|2021|  [thesis](paper/Team/master_thesis_LiuChang_2021.pdf) || [[doc](doc/master_thesis_LiuChang_2021.md),[note1](note/湖大-基于慕课数据的学习者评估模型Matlab代码笔记-陈曦.pdf),[note2](note/马尔可夫蒙泰卡洛-王嘉琪-241101.pptx),[note3](note/马尔科夫链蒙特卡罗算法-陈曦-241101.pptx)] |
 |面向慕课学习者评估的认知反应模型❣|2023|  [journal paper](paper/Team/C&RM.pdf) || [[doc]](doc/C&RM.md)|
 |采用多头注意力机制的C&RM-MAKT预测算法|2023|  [journal paper](paper/Team/C&RM-MAKT.pdf) || [[doc]](doc/C&RM-MAKT.md)|
-|Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC❣|2023|  [journal paper](paper/MvCRF.pdf) |[[code](code/MvCRF.zip), [data](data/HNU_SYS/)]|[[doc]](doc/MvCRF.md) |
+|Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC❣|2023|  [journal paper](paper/MvCRF.pdf) |[[code](code/MvCRF.zip), [data](data/HNU_SYS/)]|[[doc](doc/MvCRF.md),[note](note/认知诊断笔记.pptx)] |
 |融入课程知识图谱的 KMAKT 预测算法|2024|  [journal paper](paper/Team/KMAKT.pdf) || [[doc]](doc/KMAKT.md)|
 
 
