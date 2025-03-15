@@ -27,13 +27,13 @@ Typically, the input of a CDM could be the students' response logs of items (i.e
 |Knowledge-Sensed Cognitive Diagnosis ([KSCD](doc/KSCD.md))❣|2022| [[paper](paper/KSCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/KSCD_Code_F)]|[[note1](note/第5次汇报-陈曦-KSCD-论文阅读.pptx),[note2](note/认知诊断笔记.pptx)] |
 |Prerequisite Attention model for Knowledge Proficiency diagnosis of students ([PAKP](doc/PAKP.md))|2022| [[paper](paper/PAKP.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/PAKP)]| |
 |Knowledge-association based extension of the NeuralCDM ([KaNCD](doc/KaNCD.md))❣|2023| [[paper](paper/KaNCD.pdf)]| [[code]](https://github.com/bigdata-ustc/EduCDM/tree/main)| [[note](note/认知诊断笔记.pptx)] |
-|Multivariate Cognitive Response Framework ([MvCRF](doc/MvCRF.md))|2023| [[paper](paper/MvCRF.pdf)]| [[code](code/MvCRF.zip), [data](data/HNU_SYS/)]| |
 |Reliable Cognitive Diagnosis ([ReliCD](doc/ReliCD.md))|2023| [[paper](paper/ReliCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/ReliCD)]| |
 |Self-supervised Cognitive Diagnosis ([SCD](doc/SCD.md))|2023| [[paper](paper/SCD.pdf)]| [[code](https://github.com/zeng-zhen/SCD)]| |
 |Exercise-aware Informative Response Sampling ([EIRS](doc/EIRS.md))|2023| [[paper](paper/EIRS.pdf)]| [[code&data](https://github.com/fannazya/EIRS)]| |
 |Transferable knowledgE Concept grapH embedding framework for Cognitive Diagnosis ([TechCD](doc/TechCD.md))|2023| [[paper](paper/TechCD.pdf)]| [[code&data](https://github.com/bigdata-ustc/TechCD?tab=readme-ov-file)]| |
 |Evolutionary Multi-objective Optimization based Neural Architecture Search for Cognitive Diagnosis ([EMO-NAS-CD](doc/EMO-NAS-CD.md))|2023| [[paper](paper/EMO-NAS-CD.pdf)]| [[code](https://github.com/DevilYangS/EMO-NAS-CD)]| |
 |Neural Architecture Search for Generalized Cognitive Diagnosis  ([NAS-GCD](doc/NAS-GCD.md))|2023| [[paper](paper/NAS-GCD.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/NAS-GCD)]| |
+|Multivariate Cognitive Response Framework ([MvCRF](doc/MvCRF.md))|2024| [[paper](paper/MvCRF.pdf)]| [[code](code/MvCRF.zip), [data](data/HNU_SYS/)]| |
 |Affect-aware Cognitive Diagnosis ([ACD](doc/ACD.md))❣|2024| [[paper](paper/ACD.pdf)]| [[code&data](https://github.com/zeng-zhen/ACD)]|[[note](note/认知诊断笔记.pptx)] |
 |Disentangling Cognitive Diagnosis ([DCD](doc/DCD.md))|2024| [[paper](paper/DCD.pdf)]| [[code](https://github.com/kervias/DCD)]| |
 |Collaborative-aware Mixed Exercise Sampling ([CMES](doc/CMES.md))|2024| [[paper](paper/CMES.pdf)]| [[code](https://github.com/WangCQ206/Intelligent-Education/tree/main/CMES)]| |
