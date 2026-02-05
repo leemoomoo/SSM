@@ -119,7 +119,7 @@ Method|Year|Paper|Code&Data|Others|
 |Graph-based Knowledge Tracing ([GKT](doc/GKT.md))🌟|2019|  [[paper]](paper/GKT.pdf) |[[code&data]](https://github.com/jhljx/GKT?tab=readme-ov-file)||
 |Pre-training Embeddings via Bipartite Graph ([PEBG](doc/PEBG.md))|2020|  [[paper]](paper/PEBG.pdf) |[[code&data]](https://github.com/ApexEDM/PEBG)||
 |Graph-based Interactive Knowledge Tracing ([GIKT](doc/GIKT.md))|2021|  [[paper]](paper/GIKT.pdf) |[[code]](https://github.com/ApexEDM/GIKT)||
-|Session Graph-based Knowledge Tracing ([SGKT](doc/SGKT.md))🌟|2022|  [[paper]](paper/SGKT.pdf) |[[code&data]](https://github.com/lhuang65/SGKT)||
+|Session Graph-based Knowledge Tracing ([SGKT](doc/SGKT.md))🌟|2022|  [[paper]](paper/SGKT.pdf) |[[code&data]](https://github.com/CCNUZFW/SGKT)||
 |Inductive Graph-based Knowledge Tracing ([IGKT](doc/IGKT.md))|2023|  [[paper]](paper/IGKT.pdf) |[[code&data]](https://github.com/venzino-han/IGKT_Bigcomp2023?tab=readme-ov-file)||
 |Inductive Graph-based Knowledge Tracing with Graph Attention layers incorporating Timestamps ([IGKT-GAT](doc/IGKT-GAT.md))|2023|  [[paper]](paper/IGKT-GAT.pdf) |[[code&data]](https://github.com/venzino-han/IGKT-GAT_APIN?tab=readme-ov-file)||
 |Psychological factors-enhanced heterogeneous learning interactive graph Knowledge Tracing ([Psy-KT](doc/Psy-KT.md))|2024|  [[paper]](paper/Psy-KT.pdf) |[[code]](https://github.com/CCNUZFW/Psy-KT)||
