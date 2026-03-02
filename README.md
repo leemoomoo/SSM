@@ -87,6 +87,7 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |Interpretable Knowledge Tracing ([IKT](doc/IKT.md))|2022|  [[paper]](paper/IKT.pdf) |[[code]](https://github.com/simon-tan/IKT)||
 |Learning Process-consistent Knowledge Tracing by introducing Student embedding ([LPKT-S](doc/LPKT-S.md))|2022|  [[paper]](paper/LPKT-S.pdf) |[[code&data]](https://github.com/shshen-closer/LPKT-S)||
 |Continuous Time based Neural Cognitive Modeling ([CT-NCM](doc/CT-NCM.md))|2022| [[paper](paper/CT-NCM.pdf)]| [[code](https://github.com/BIMK/Intelligent-Education/tree/main/CTNCM)]| |
+|Collaborative Knowledge Tracing ([CoKT](doc/CoKT.md))|2022| [[paper](paper/CoKT.pdf)]| [[code](https://github.com/githubg0/CoKT)]| |
 |Learning Behavior-oriented Knowledge Tracing ([LBKT](doc/LBKT.md))|2023|  [[paper]](paper/LBKT.pdf) |[[code1](https://github.com/bigdata-ustc/EduKTM?tab=readme-ov-file), [code2](https://github.com/xbh0720/LBKT)]||
 |Forgetting-aware Linear Bias ([FoLiBi](doc/FoLiBi.md))|2023|  [[paper]](paper/FoLiBi.pdf) |[[code]](https://github.com/skewondr/FoLiBi)||
 |Diagnostic Transformer ([DTransformer](doc/DTransformer.md))|2023|  [[paper]](paper/DTransformer.pdf) |[[code&data]](https://github.com/yxonic/DTransformer)||
