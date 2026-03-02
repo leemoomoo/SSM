@@ -131,7 +131,10 @@ Method|Year|Paper|Code&Data|Others|
 |Dual Graph Ensemble learning method for Knowledge Tracing ([DGEKT](doc/DGEKT.md))|2024|  [[paper]](paper/DGEKT.pdf) |[[code&data]](https://github.com/Yumo216/DGEKT)||
 |Dynamic Graph-based Knowledge Tracing ([DyGKT](doc/DyGKT.md))|2024|  [[paper]](paper/DyGKT.pdf) |[[code&data]](https://github.com/PengLinzhi/DyGKT)||
 |Multiscale-state-based Interpretable Knowledge Tracing ([GTMKT])|2024|  [[paper]] |[[code&data]](https://github.com/Maybee99/GTMKT)||
+|Contrastive Cross-Course Knowledge Tracing via Concept Graph Guided Knowledge Transfer ([TransKT](doc/TransKT.md))|2024|  [[paper]](paper/TransKT.pdf) |[[code&data]](https://github.com/DQYZHWK/TransKT/)||
+|Graph-based Reasonable Knowledge Tracing ([GRKT](doc/GRKT.md))|2024|  [[paper]](paper/GRKT.pdf) |[[code&data]](https://github.com/JJCui96/GRKT)||
 |Multiple Graph Knowledge Tracing ([MGKT](doc/MGKT.md))|2025|  [[paper]](paper/MGKT.pdf) |[[code&data]](code/MGKT.rar)||
+|Extending Graph Knowledge Tracing to Multple-Concept Scenario ([MCGKT](doc/MCGKT.md))|2026|  [[paper]] |[[code]](https://github.com/ShugangZhang/MCGKT)||
 
 # Recommendation Technology
 
