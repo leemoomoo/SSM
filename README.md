@@ -112,7 +112,6 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |Progressive Knowledge Tracing ([PKT](doc/PKT.md))|2024|  [[paper]](paper/PKT.pdf) |[[code&data]](https://github.com/WeiMengqi934/PKT)||
 |Hierarchical Transformer Model for Session-awared Knowledge Tracing ([HiTSKT](doc/HiTSKT.md))|2024|  [[paper]](paper/HiTSKT.pdf) |[[code&data]](https://github.com/pokerme7777/HiTSKT)||
 |Interpretable KT approach with Difficulty-Aware Attention and Selective State Space Model ([ASIKT](doc/ASIKT.md))|2025|  [[paper]](paper/ASIKT.pdf) |[[code&data]](https://github.com/mrsser/ASIKT)||
-|Forgetting-aware Linear Bias ([FoLiBi](doc/FoLiBi.md))|2023|  [[paper]](paper/FoLiBi.pdf) |[[code]](https://github.com/skewondr/FoLiBi)||
 |Fluctuations enhanced attention network for KT ([FlucKT](doc/FlucKT.md))|2025|  [[paper]](paper/FlucKT.pdf) |[[code]](https://github.com/teemohold/FlucKT)||
 
 
