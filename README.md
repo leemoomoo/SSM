@@ -134,7 +134,7 @@ Method|Year|Paper|Code&Data|Others|
 |Contrastive Cross-Course Knowledge Tracing via Concept Graph Guided Knowledge Transfer ([TransKT](doc/TransKT.md))|2024|  [[paper]](paper/TransKT.pdf) |[[code&data]](https://github.com/DQYZHWK/TransKT/)||
 |Graph-based Reasonable Knowledge Tracing ([GRKT](doc/GRKT.md))|2024|  [[paper]](paper/GRKT.pdf) |[[code&data]](https://github.com/JJCui96/GRKT)||
 |Multiple Graph Knowledge Tracing ([MGKT](doc/MGKT.md))|2025|  [[paper]](paper/MGKT.pdf) |[[code&data]](code/MGKT.rar)||
-|Hierarchical Contrastive Graph Knowledge Tracing ([HCGKT](doc/HCGKT.md))|2025|  [[paper]](paper/HCGKT.pdf) |[[code1](https://github.com/brothore/pykt-toolkit/blob/3dcd1361278f1d498a301c42e90367ce218fed2d/pykt/models/hcgkt.py#L23), [code2](https://github.com/qvbp/HCGKT)]||
+|Hierarchical Contrastive Graph Knowledge Tracing ([HCGKT](doc/HCGKT.md))|2025|  [[paper]] |[[code1](https://github.com/brothore/pykt-toolkit/blob/3dcd1361278f1d498a301c42e90367ce218fed2d/pykt/models/hcgkt.py#L23), [code2](https://github.com/qvbp/HCGKT)]||
 |Extending Graph Knowledge Tracing to Multple-Concept Scenario ([MCGKT](doc/MCGKT.md))|2026|  [[paper]] |[[code]](https://github.com/ShugangZhang/MCGKT)||
 
 # Recommendation Technology
