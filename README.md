@@ -113,7 +113,7 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |Hierarchical Transformer Model for Session-awared Knowledge Tracing ([HiTSKT](doc/HiTSKT.md))|2024|  [[paper]](paper/HiTSKT.pdf) |[[code&data]](https://github.com/pokerme7777/HiTSKT)||
 |Interpretable KT approach with Difficulty-Aware Attention and Selective State Space Model ([ASIKT](doc/ASIKT.md))|2025|  [[paper]](paper/ASIKT.pdf) |[[code&data]](https://github.com/mrsser/ASIKT)||
 |Fluctuations enhanced attention network for KT ([FlucKT](doc/FlucKT.md))|2025|  [[paper]](paper/FlucKT.pdf) |[[code]](https://github.com/teemohold/FlucKT)||
-|Hierarchical Self-Attention and Skill Clustering for Knowledge Tracing ([HiSACKT](doc/HiSACKT.md))|2025|  [[paper]]() |[[code]](https://github.com/duaabaig/HiSACKT)||
+|Hierarchical Self-Attention and Skill Clustering for Knowledge Tracing ([HiSACKT](doc/HiSACKT.md))|2025|  [[paper]] |[[code]](https://github.com/duaabaig/HiSACKT)||
 
 
 
