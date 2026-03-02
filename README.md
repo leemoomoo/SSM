@@ -110,6 +110,7 @@ Knowledge Tracing is the task of modelling student knowledge over time so that w
 |Knowledge Tracing Model Based on Alternate Autoregressive Modeling ([AAKT](doc/AAKT.md))|2024|  [[paper]](paper/AAKT.pdf) |[[code&data]](https://github.com/alxzzhou/AAKT)||
 |Improving Model Fairness Outcomes with Time-Augmented Bayesian Knowledge Tracing ([BKT-Fairness](doc/BKT-Fairness.md))|2024|  [[paper]](paper/BKT-Fairness.pdf) |[[code]](https://github.com/jake126/BKT_fairness)||
 |Progressive Knowledge Tracing ([PKT](doc/PKT.md))|2024|  [[paper]](paper/PKT.pdf) |[[code&data]](https://github.com/WeiMengqi934/PKT)||
+|Interpretable KT approach with Difficulty-Aware Attention and Selective State Space Model ([ASIKT](doc/ASIKT.md))|2025|  [[paper]](paper/ASIKT.pdf) |[[code&data]](https://github.com/mrsser/ASIKT)||
 
 
 
